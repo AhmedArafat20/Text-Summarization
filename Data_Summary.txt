@@ -1,0 +1,2404 @@
+Text||Summary
+1. The sun rises in the east and sets in the west.||Sun rises and sets.
+2. Cats are furry animals that love to sleep.||Cats love to sleep.
+3. Coding is a skill that can be learned with practice.||Coding can be learned with practice.
+4. The world is full of wonders waiting to be explored.||World is full of wonders.
+5. Music has the power to heal and uplift the soul.||Music heals and uplifts.
+6. Exercise is important for maintaining good health and fitness.||Exercise is important for health.
+7. Rome wasn't built in a day.||Rome wasn't built in a day.
+8. Science and technology are driving forces behind progress.||Science and technology drive progress.
+9. Books are a window to the world.||Books are a window to the world.
+10. Kindness costs nothing but means everything.||Kindness means everything.
+11. Dreams are the seeds of success.||Dreams are seeds of success.
+12. Laughter is the best medicine.||Laughter is the best medicine.
+13. The early bird catches the worm.||Early bird catches the worm.
+14. Time flies when you're having fun.||Time flies when having fun.
+15. Beauty is in the eye of the beholder.||Beauty is in the eye of the beholder.
+16. Actions speak louder than words.||Actions speak louder than words.
+17. Where there's a will, there's a way.||Where there's a will, there's a way.
+18. The pen is mightier than the sword.||Pen is mightier than the sword.
+19. All that glitters is not gold.||All that glitters is not gold.
+20. Love conquers all.||Love conquers all.
+21. Knowledge is power.||Knowledge is power.
+22. Necessity is the mother of invention.||Necessity is the mother of invention.
+23. Honesty is the best policy.||Honesty is the best policy.
+24. Practice makes perfect.||Practice makes perfect.
+25. A journey of a thousand miles begins with a single step.||Journey begins with a single step.
+26. Two heads are better than one.||Two heads are better than one.
+27. When life gives you lemons, make lemonade.||Make lemonade.
+28. Every cloud has a silver lining.||Every cloud has a silver lining.
+29. You reap what you sow.||You reap what you sow.
+30. Hope for the best, prepare for the worst.||Hope for the best, prepare for the worst.
+31. The grass is always greener on the other side.||Grass is always greener.
+32. Birds of a feather flock together.||Birds of a feather flock together.
+33. Better late than never.||Better late than never.
+34. A stitch in time saves nine.||Stitch in time saves nine.
+35. A picture is worth a thousand words.||Picture is worth a thousand words.
+36. Rome wasn't built in a day.||Rome wasn't built in a day.
+37. All roads lead to Rome.||All roads lead to Rome.
+38. The apple doesn't fall far from the tree.||Apple doesn't fall far from the tree.
+39. The early bird catches the worm.||Early bird catches the worm.
+40. There's no smoke without fire.||No smoke without fire.
+41. Curiosity killed the cat.||Curiosity killed the cat.
+42. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+43. Rome wasn't built in a day.||Rome wasn't built in a day.
+44. The grass is always greener on the other side.||Grass is always greener.
+45. Birds of a feather flock together.||Birds of a feather flock together.
+46. Better late than never.||Better late than never.
+47. A stitch in time saves nine.||Stitch in time saves nine.
+48. A picture is worth a thousand words.||Picture is worth a thousand words.
+49. Rome wasn't built in a day.||Rome wasn't built in a day.
+50. All roads lead to Rome.||All roads lead to Rome.
+51. When in Rome, do as the Romans do.||When in Rome, do as the Romans do.
+52. You can't judge a book by its cover.||You can't judge a book by its cover.
+53. A rolling stone gathers no moss.||A rolling stone gathers no moss.
+54. The more, the merrier.||The more, the merrier.
+55. A penny saved is a penny earned.||A penny saved is a penny earned.
+56. Don't count your chickens before they hatch.||Don't count your chickens before they hatch.
+57. Easy come, easy go.||Easy come, easy go.
+58. Every dog has its day.||Every dog has its day.
+59. Haste makes waste.||Haste makes waste.
+60. Let sleeping dogs lie.||Let sleeping dogs lie.
+61. Out of sight, out of mind.||Out of sight, out of mind.
+62. Two wrongs don't make a right.||Two wrongs don't make a right.
+63. You can lead a horse to water, but you can't make it drink.||You can lead a horse to water, but you can't make it drink.
+64. Actions speak louder than words.||Actions speak louder than words.
+65. Beauty is in the eye of the beholder.||Beauty is in the eye of the beholder.
+66. Beggars can't be choosers.||Beggars can't be choosers.
+67. Don't bite the hand that feeds you.||Don't bite the hand that feeds you.
+68. Don't count your chickens before they hatch.||Don't count your chickens before they hatch.
+69. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+70. Don't put the cart before the horse.||Don't put the cart before the horse.
+71. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+72. Every cloud has a silver lining.||Every cloud has a silver lining.
+73. Every dog has its day.||Every dog has its day.
+74. Fortune favors the bold.||Fortune favors the bold.
+75. Hindsight is 20/20.||Hindsight is 20/20.
+76. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+77. It takes two to tango.||It takes two to tango.
+78. Look before you leap.||Look before you leap.
+79. Make hay while the sun shines.||Make hay while the sun shines.
+80. Misery loves company.||Misery loves company.
+81. No pain, no gain.||No pain, no gain.
+82. Rome wasn't built in a day.||Rome wasn't built in a day.
+83. Slow and steady wins the race.||Slow and steady wins the race.
+84. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+85. The early bird catches the worm.||The early bird catches the worm.
+86. The pen is mightier than the sword.||The pen is mightier than the sword.
+87. There's no smoke without fire.||There's no smoke without fire.
+88. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+89. Time heals all wounds.||Time heals all wounds.
+90. Two heads are better than one.||Two heads are better than one.
+91. What goes around comes around.||What goes around comes around.
+92. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+93. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+94. A watched pot never boils.||A watched pot never boils.
+95. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+96. All good things must come to an end.||All good things must come to an end.
+97. All that glitters is not gold.||All that glitters is not gold.
+98. Beauty is only skin deep.||Beauty is only skin deep.
+99. Better late than never.||Better late than never.
+100. Clothes make the man.||Clothes make the man.
+101. Don't cry over spilled milk.||Don't cry over spilled milk.
+102. Don't put off until tomorrow what you can do today.||Don't put off until tomorrow what you can do today.
+103. Don't bite off more than you can chew.||Don't bite off more than you can chew.
+104. Every cloud has a silver lining.||Every cloud has a silver lining.
+105. Every dog has its day.||Every dog has its day.
+106. Fortune favors the bold.||Fortune favors the bold.
+107. Hindsight is 20/20.||Hindsight is 20/20.
+108. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+109. It takes two to tango.||It takes two to tango.
+110. Look before you leap.||Look before you leap.
+111. Make hay while the sun shines.||Make hay while the sun shines.
+112. Misery loves company.||Misery loves company.
+113. No pain, no gain.||No pain, no gain.
+114. Rome wasn't built in a day.||Rome wasn't built in a day.
+115. Slow and steady wins the race.||Slow and steady wins the race.
+116. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+117. The early bird catches the worm.||The early bird catches the worm.
+118. The pen is mightier than the sword.||The pen is mightier than the sword.
+119. There's no smoke without fire.||There's no smoke without fire.
+120. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+121. Time heals all wounds.||Time heals all wounds.
+122. Two heads are better than one.||Two heads are better than one.
+123. What goes around comes around.||What goes around comes around.
+124. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+125. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+126. A watched pot never boils.||A watched pot never boils.
+127. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+128. All good things must come to an end.||All good things must come to an end.
+129. All that glitters is not gold.||All that glitters is not gold.
+130. Beauty is only skin deep.||Beauty is only skin deep.
+131. Better late than never.||Better late than never.
+132. Clothes make the man.||Clothes make the man.
+133. Don't judge a book by its cover.||Don't judge a book by its cover.
+134. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+135. Don't put the cart before the horse.||Don't put the cart before the horse.
+136. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+137. Every cloud has a silver lining.||Every cloud has a silver lining.
+138. Every dog has its day.||Every dog has its day.
+139. Fortune favors the bold.||Fortune favors the bold.
+140. Hindsight is 20/20.||Hindsight is 20/20.
+141. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+142. It takes two to tango.||It takes two to tango.
+143. Look before you leap.||Look before you leap.
+144. Make hay while the sun shines.||Make hay while the sun shines.
+145. Misery loves company.||Misery loves company.
+146. No pain, no gain.||No pain, no gain.
+147. Rome wasn't built in a day.||Rome wasn't built in a day.
+148. Slow and steady wins the race.||Slow and steady wins the race.
+149. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+150. The early bird catches the worm.||The early bird catches the worm.
+151. The pen is mightier than the sword.||The pen is mightier than the sword.
+152. There's no smoke without fire.||There's no smoke without fire.
+153. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+154. Time heals all wounds.||Time heals all wounds.
+155. Two heads are better than one.||Two heads are better than one.
+156. What goes around comes around.||What goes around comes around.
+157. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+158. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+159. A watched pot never boils.||A watched pot never boils.
+160. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+161. All good things must come to an end.||All good things must come to an end.
+162. All that glitters is not gold.||All that glitters is not gold.
+163. Beauty is only skin deep.||Beauty is only skin deep.
+164. Better late than never.||Better late than never.
+165. Clothes make the man.||Clothes make the man.
+166. Don't judge a book by its cover.||Don't judge a book by its cover.
+167. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+168. Don't put the cart before the horse.||Don't put the cart before the horse.
+169. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+170. Every cloud has a silver lining.||Every cloud has a silver lining.
+171. Every dog has its day.||Every dog has its day.
+172. Fortune favors the bold.||Fortune favors the bold.
+173. Hindsight is 20/20.||Hindsight is 20/20.
+174. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+175. It takes two to tango.||It takes two to tango.
+176. Look before you leap.||Look before you leap.
+177. Make hay while the sun shines.||Make hay while the sun shines.
+178. Misery loves company.||Misery loves company.
+179. No pain, no gain.||No pain, no gain.
+180. Rome wasn't built in a day.||Rome wasn't built in a day.
+181. Slow and steady wins the race.||Slow and steady wins the race.
+182. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+183. The early bird catches the worm.||The early bird catches the worm.
+184. The pen is mightier than the sword.||The pen is mightier than the sword.
+185. There's no smoke without fire.||There's no smoke without fire.
+186. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+187. Time heals all wounds.||Time heals all wounds.
+188. Two heads are better than one.||Two heads are better than one.
+189. What goes around comes around.||What goes around comes around.
+190. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+191. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+192. A watched pot never boils.||A watched pot never boils.
+193. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+194. All good things must come to an end.||All good things must come to an end.
+195. All that glitters is not gold.||All that glitters is not gold.
+196. Beauty is only skin deep.||Beauty is only skin deep.
+197. Better late than never.||Better late than never.
+198. Clothes make the man.||Clothes make the man.
+199. Don't judge a book by its cover.||Don't judge a book by its cover.
+200. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+201. Don't put the cart before the horse.||Don't put the cart before the horse.
+202. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+203. Every cloud has a silver lining.||Every cloud has a silver lining.
+204. Every dog has its day.||Every dog has its day.
+205. Fortune favors the bold.||Fortune favors the bold.
+206. Hindsight is 20/20.||Hindsight is 20/20.
+207. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+208. It takes two to tango.||It takes two to tango.
+209. Look before you leap.||Look before you leap.
+210. Make hay while the sun shines.||Make hay while the sun shines.
+211. Misery loves company.||Misery loves company.
+212. No pain, no gain.||No pain, no gain.
+213. Rome wasn't built in a day.||Rome wasn't built in a day.
+214. Slow and steady wins the race.||Slow and steady wins the race.
+215. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+216. The early bird catches the worm.||The early bird catches the worm.
+217. The pen is mightier than the sword.||The pen is mightier than the sword.
+218. There's no smoke without fire.||There's no smoke without fire.
+219. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+220. Time heals all wounds.||Time heals all wounds.
+221. Two heads are better than one.||Two heads are better than one.
+222. What goes around comes around.||What goes around comes around.
+223. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+224. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+225. A watched pot never boils.||A watched pot never boils.
+226. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+227. All good things must come to an end.||All good things must come to an end.
+228. All that glitters is not gold.||All that glitters is not gold.
+229. Beauty is only skin deep.||Beauty is only skin deep.
+230. Better late than never.||Better late than never.
+231. Clothes make the man.||Clothes make the man.
+232. Don't judge a book by its cover.||Don't judge a book by its cover.
+233. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+234. Don't put the cart before the horse.||Don't put the cart before the horse.
+235. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+236. Every cloud has a silver lining.||Every cloud has a silver lining.
+237. Every dog has its day.||Every dog has its day.
+238. Fortune favors the bold.||Fortune favors the bold.
+239. Hindsight is 20/20.||Hindsight is 20/20.
+240. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+241. It takes two to tango.||It takes two to tango.
+242. Look before you leap.||Look before you leap.
+243. Make hay while the sun shines.||Make hay while the sun shines.
+244. Misery loves company.||Misery loves company.
+245. No pain, no gain.||No pain, no gain.
+246. Rome wasn't built in a day.||Rome wasn't built in a day.
+247. Slow and steady wins the race.||Slow and steady wins the race.
+248. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+249. The early bird catches the worm.||The early bird catches the worm.
+250. The pen is mightier than the sword.||The pen is mightier than the sword.
+251. There's no smoke without fire.||There's no smoke without fire.
+252. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+253. Time heals all wounds.||Time heals all wounds.
+254. Two heads are better than one.||Two heads are better than one.
+255. What goes around comes around.||What goes around comes around.
+256. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+257. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+258. A watched pot never boils.||A watched pot never boils.
+259. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+260. All good things must come to an end.||All good things must come to an end.
+261. All that glitters is not gold.||All that glitters is not gold.
+262. Beauty is only skin deep.||Beauty is only skin deep.
+263. Better late than never.||Better late than never.
+264. Clothes make the man.||Clothes make the man.
+265. Don't judge a book by its cover.||Don't judge a book by its cover.
+266. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+267. Don't put the cart before the horse.||Don't put the cart before the horse.
+268. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+269. Every cloud has a silver lining.||Every cloud has a silver lining.
+270. Every dog has its day.||Every dog has its day.
+271. Fortune favors the bold.||Fortune favors the bold.
+272. Hindsight is 20/20.||Hindsight is 20/20.
+273. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+274. It takes two to tango.||It takes two to tango.
+275. Look before you leap.||Look before you leap.
+276. Make hay while the sun shines.||Make hay while the sun shines.
+277. Misery loves company.||Misery loves company.
+278. No pain, no gain.||No pain, no gain.
+279. Rome wasn't built in a day.||Rome wasn't built in a day.
+280. Slow and steady wins the race.||Slow and steady wins the race.
+281. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+282. The early bird catches the worm.||The early bird catches the worm.
+283. The pen is mightier than the sword.||The pen is mightier than the sword.
+284. There's no smoke without fire.||There's no smoke without fire.
+285. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+286. Time heals all wounds.||Time heals all wounds.
+287. Two heads are better than one.||Two heads are better than one.
+288. What goes around comes around.||What goes around comes around.
+289. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+290. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+291. A watched pot never boils.||A watched pot never boils.
+292. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+293. All good things must come to an end.||All good things must come to an end.
+294. All that glitters is not gold.||All that glitters is not gold.
+295. Beauty is only skin deep.||Beauty is only skin deep.
+296. Better late than never.||Better late than never.
+297. Clothes make the man.||Clothes make the man.
+298. Don't judge a book by its cover.||Don't judge a book by its cover.
+299. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+300. Don't put the cart before the horse.||Don't put the cart before the horse.
+301. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+302. Every cloud has a silver lining.||Every cloud has a silver lining.
+303. Every dog has its day.||Every dog has its day.
+304. Fortune favors the bold.||Fortune favors the bold.
+305. Hindsight is 20/20.||Hindsight is 20/20.
+306. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+307. It takes two to tango.||It takes two to tango.
+308. Look before you leap.||Look before you leap.
+309. Make hay while the sun shines.||Make hay while the sun shines.
+310. Misery loves company.||Misery loves company.
+311. No pain, no gain.||No pain, no gain.
+312. Rome wasn't built in a day.||Rome wasn't built in a day.
+313. Slow and steady wins the race.||Slow and steady wins the race.
+314. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+315. The early bird catches the worm.||The early bird catches the worm.
+316. The pen is mightier than the sword.||The pen is mightier than the sword.
+317. There's no smoke without fire.||There's no smoke without fire.
+318. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+319. Time heals all wounds.||Time heals all wounds.
+320. Two heads are better than one.||Two heads are better than one.
+321. What goes around comes around.||What goes around comes around.
+322. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+323. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+324. A watched pot never boils.||A watched pot never boils.
+325. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+326. All good things must come to an end.||All good things must come to an end.
+327. All that glitters is not gold.||All that glitters is not gold.
+328. Beauty is only skin deep.||Beauty is only skin deep.
+329. Better late than never.||Better late than never.
+330. Clothes make the man.||Clothes make the man.
+331. Don't judge a book by its cover.||Don't judge a book by its cover.
+332. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+333. Don't put the cart before the horse.||Don't put the cart before the horse.
+334. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+335. Every cloud has a silver lining.||Every cloud has a silver lining.
+336. Every dog has its day.||Every dog has its day.
+337. Fortune favors the bold.||Fortune favors the bold.
+338. Hindsight is 20/20.||Hindsight is 20/20.
+339. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+340. It takes two to tango.||It takes two to tango.
+341. Look before you leap.||Look before you leap.
+342. Make hay while the sun shines.||Make hay while the sun shines.
+343. Misery loves company.||Misery loves company.
+344. No pain, no gain.||No pain, no gain.
+345. Rome wasn't built in a day.||Rome wasn't built in a day.
+346. Slow and steady wins the race.||Slow and steady wins the race.
+347. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+348. The early bird catches the worm.||The early bird catches the worm.
+349. The pen is mightier than the sword.||The pen is mightier than the sword.
+350. There's no smoke without fire.||There's no smoke without fire.
+351. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+352. Time heals all wounds.||Time heals all wounds.
+353. Two heads are better than one.||Two heads are better than one.
+354. What goes around comes around.||What goes around comes around.
+355. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+356. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+357. A watched pot never boils.||A watched pot never boils.
+358. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+359. All good things must come to an end.||All good things must come to an end.
+360. All that glitters is not gold.||All that glitters is not gold.
+361. Beauty is only skin deep.||Beauty is only skin deep.
+362. Better late than never.||Better late than never.
+363. Clothes make the man.||Clothes make the man.
+364. Don't judge a book by its cover.||Don't judge a book by its cover.
+365. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+366. Don't put the cart before the horse.||Don't put the cart before the horse.
+367. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+368. Every cloud has a silver lining.||Every cloud has a silver lining.
+369. Every dog has its day.||Every dog has its day.
+370. Fortune favors the bold.||Fortune favors the bold.
+371. Hindsight is 20/20.||Hindsight is 20/20.
+372. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+373. It takes two to tango.||It takes two to tango.
+374. Look before you leap.||Look before you leap.
+375. Make hay while the sun shines.||Make hay while the sun shines.
+376. Misery loves company.||Misery loves company.
+377. No pain, no gain.||No pain, no gain.
+378. Rome wasn't built in a day.||Rome wasn't built in a day.
+379. Slow and steady wins the race.||Slow and steady wins the race.
+380. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+381. The early bird catches the worm.||The early bird catches the worm.
+382. The pen is mightier than the sword.||The pen is mightier than the sword.
+383. There's no smoke without fire.||There's no smoke without fire.
+384. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+385. Time heals all wounds.||Time heals all wounds.
+386. Two heads are better than one.||Two heads are better than one.
+387. What goes around comes around.||What goes around comes around.
+388. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+389. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+390. A watched pot never boils.||A watched pot never boils.
+391. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+392. All good things must come to an end.||All good things must come to an end.
+393. All that glitters is not gold.||All that glitters is not gold.
+394. Beauty is only skin deep.||Beauty is only skin deep.
+395. Better late than never.||Better late than never.
+396. Clothes make the man.||Clothes make the man.
+397. Don't judge a book by its cover.||Don't judge a book by its cover.
+398. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+399. Don't put the cart before the horse.||Don't put the cart before the horse.
+400. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+401. Every cloud has a silver lining.||Every cloud has a silver lining.
+402. Every dog has its day.||Every dog has its day.
+403. Fortune favors the bold.||Fortune favors the bold.
+404. Hindsight is 20/20.||Hindsight is 20/20.
+405. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+406. It takes two to tango.||It takes two to tango.
+407. Look before you leap.||Look before you leap.
+408. Make hay while the sun shines.||Make hay while the sun shines.
+409. Misery loves company.||Misery loves company.
+410. No pain, no gain.||No pain, no gain.
+411. Rome wasn't built in a day.||Rome wasn't built in a day.
+412. Slow and steady wins the race.||Slow and steady wins the race.
+413. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+414. The early bird catches the worm.||The early bird catches the worm.
+415. The pen is mightier than the sword.||The pen is mightier than the sword.
+416. There's no smoke without fire.||There's no smoke without fire.
+417. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+418. Time heals all wounds.||Time heals all wounds.
+419. Two heads are better than one.||Two heads are better than one.
+420. What goes around comes around.||What goes around comes around.
+421. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+422. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+423. A watched pot never boils.||A watched pot never boils.
+424. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+425. All good things must come to an end.||All good things must come to an end.
+426. All that glitters is not gold.||All that glitters is not gold.
+427. Beauty is only skin deep.||Beauty is only skin deep.
+428. Better late than never.||Better late than never.
+429. Clothes make the man.||Clothes make the man.
+430. Don't judge a book by its cover.||Don't judge a book by its cover.
+431. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+432. Don't put the cart before the horse.||Don't put the cart before the horse.
+433. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+434. Every cloud has a silver lining.||Every cloud has a silver lining.
+435. Every dog has its day.||Every dog has its day.
+436. Fortune favors the bold.||Fortune favors the bold.
+437. Hindsight is 20/20.||Hindsight is 20/20.
+438. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+439. It takes two to tango.||It takes two to tango.
+440. Look before you leap.||Look before you leap.
+441. Make hay while the sun shines.||Make hay while the sun shines.
+442. Misery loves company.||Misery loves company.
+443. No pain, no gain.||No pain, no gain.
+444. Rome wasn't built in a day.||Rome wasn't built in a day.
+445. Slow and steady wins the race.||Slow and steady wins the race.
+446. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+447. The early bird catches the worm.||The early bird catches the worm.
+448. The pen is mightier than the sword.||The pen is mightier than the sword.
+449. There's no smoke without fire.||There's no smoke without fire.
+450. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+451. Time heals all wounds.||Time heals all wounds.
+452. Two heads are better than one.||Two heads are better than one.
+453. What goes around comes around.||What goes around comes around.
+454. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+455. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+456. A watched pot never boils.||A watched pot never boils.
+457. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+458. All good things must come to an end.||All good things must come to an end.
+459. All that glitters is not gold.||All that glitters is not gold.
+460. Beauty is only skin deep.||Beauty is only skin deep.
+461. Better late than never.||Better late than never.
+462. Clothes make the man.||Clothes make the man.
+463. Don't judge a book by its cover.||Don't judge a book by its cover.
+464. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+465. Don't put the cart before the horse.||Don't put the cart before the horse.
+466. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+467. Every cloud has a silver lining.||Every cloud has a silver lining.
+468. Every dog has its day.||Every dog has its day.
+469. Fortune favors the bold.||Fortune favors the bold.
+470. Hindsight is 20/20.||Hindsight is 20/20.
+471. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+472. It takes two to tango.||It takes two to tango.
+473. Look before you leap.||Look before you leap.
+474. Make hay while the sun shines.||Make hay while the sun shines.
+475. Misery loves company.||Misery loves company.
+476. No pain, no gain.||No pain, no gain.
+477. Rome wasn't built in a day.||Rome wasn't built in a day.
+478. Slow and steady wins the race.||Slow and steady wins the race.
+479. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+480. The early bird catches the worm.||The early bird catches the worm.
+481. The pen is mightier than the sword.||The pen is mightier than the sword.
+482. There's no smoke without fire.||There's no smoke without fire.
+483. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+484. Time heals all wounds.||Time heals all wounds.
+485. Two heads are better than one.||Two heads are better than one.
+486. What goes around comes around.||What goes around comes around.
+487. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+488. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+489. A watched pot never boils.||A watched pot never boils.
+490. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+491. All good things must come to an end.||All good things must come to an end.
+492. All that glitters is not gold.||All that glitters is not gold.
+493. Beauty is only skin deep.||Beauty is only skin deep.
+494. Better late than never.||Better late than never.
+495. Clothes make the man.||Clothes make the man.
+496. Don't judge a book by its cover.||Don't judge a book by its cover.
+497. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+498. Don't put the cart before the horse.||Don't put the cart before the horse.
+499. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+500. Every cloud has a silver lining.||Every cloud has a silver lining.
+501. Every dog has its day.||Every dog has its day.
+502. Fortune favors the bold.||Fortune favors the bold.
+503. Hindsight is 20/20.||Hindsight is 20/20.
+504. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+505. It takes two to tango.||It takes two to tango.
+506. Look before you leap.||Look before you leap.
+507. Make hay while the sun shines.||Make hay while the sun shines.
+508. Misery loves company.||Misery loves company.
+509. No pain, no gain.||No pain, no gain.
+510. Rome wasn't built in a day.||Rome wasn't built in a day.
+511. Slow and steady wins the race.||Slow and steady wins the race.
+512. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+513. The early bird catches the worm.||The early bird catches the worm.
+514. The pen is mightier than the sword.||The pen is mightier than the sword.
+515. There's no smoke without fire.||There's no smoke without fire.
+516. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+517. Time heals all wounds.||Time heals all wounds.
+518. Two heads are better than one.||Two heads are better than one.
+519. What goes around comes around.||What goes around comes around.
+520. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+521. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+522. A watched pot never boils.||A watched pot never boils.
+523. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+524. All good things must come to an end.||All good things must come to an end.
+525. All that glitters is not gold.||All that glitters is not gold.
+526. Beauty is only skin deep.||Beauty is only skin deep.
+527. Better late than never.||Better late than never.
+528. Clothes make the man.||Clothes make the man.
+529. Don't judge a book by its cover.||Don't judge a book by its cover.
+530. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+531. Don't put the cart before the horse.||Don't put the cart before the horse.
+532. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+533. Every cloud has a silver lining.||Every cloud has a silver lining.
+534. Every dog has its day.||Every dog has its day.
+535. Fortune favors the bold.||Fortune favors the bold.
+536. Hindsight is 20/20.||Hindsight is 20/20.
+537. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+538. It takes two to tango.||It takes two to tango.
+539. Look before you leap.||Look before you leap.
+540. Make hay while the sun shines.||Make hay while the sun shines.
+541. Misery loves company.||Misery loves company.
+542. No pain, no gain.||No pain, no gain.
+543. Rome wasn't built in a day.||Rome wasn't built in a day.
+544. Slow and steady wins the race.||Slow and steady wins the race.
+545. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+546. The early bird catches the worm.||The early bird catches the worm.
+547. The pen is mightier than the sword.||The pen is mightier than the sword.
+548. There's no smoke without fire.||There's no smoke without fire.
+549. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+550. Time heals all wounds.||Time heals all wounds.
+551. Two heads are better than one.||Two heads are better than one.
+552. What goes around comes around.||What goes around comes around.
+553. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+554. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+555. A watched pot never boils.||A watched pot never boils.
+556. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+557. All good things must come to an end.||All good things must come to an end.
+558. All that glitters is not gold.||All that glitters is not gold.
+559. Beauty is only skin deep.||Beauty is only skin deep.
+560. Better late than never.||Better late than never.
+561. Clothes make the man.||Clothes make the man.
+562. Don't judge a book by its cover.||Don't judge a book by its cover.
+563. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+564. Don't put the cart before the horse.||Don't put the cart before the horse.
+565. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+566. Every cloud has a silver lining.||Every cloud has a silver lining.
+567. Every dog has its day.||Every dog has its day.
+568. Fortune favors the bold.||Fortune favors the bold.
+569. Hindsight is 20/20.||Hindsight is 20/20.
+570. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+571. It takes two to tango.||It takes two to tango.
+572. Look before you leap.||Look before you leap.
+573. Make hay while the sun shines.||Make hay while the sun shines.
+574. Misery loves company.||Misery loves company.
+575. No pain, no gain.||No pain, no gain.
+576. Rome wasn't built in a day.||Rome wasn't built in a day.
+577. Slow and steady wins the race.||Slow and steady wins the race.
+578. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+579. The early bird catches the worm.||The early bird catches the worm.
+580. The pen is mightier than the sword.||The pen is mightier than the sword.
+581. There's no smoke without fire.||There's no smoke without fire.
+582. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+583. Time heals all wounds.||Time heals all wounds.
+584. Two heads are better than one.||Two heads are better than one.
+585. What goes around comes around.||What goes around comes around.
+586. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+587. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+588. A watched pot never boils.||A watched pot never boils.
+589. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+590. All good things must come to an end.||All good things must come to an end.
+591. All that glitters is not gold.||All that glitters is not gold.
+592. Beauty is only skin deep.||Beauty is only skin deep.
+593. Better late than never.||Better late than never.
+594. Clothes make the man.||Clothes make the man.
+595. Don't judge a book by its cover.||Don't judge a book by its cover.
+596. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+597. Don't put the cart before the horse.||Don't put the cart before the horse.
+598. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+599. Every cloud has a silver lining.||Every cloud has a silver lining.
+600. Every dog has its day.||Every dog has its day.
+601. Fortune favors the bold.||Fortune favors the bold.
+602. Hindsight is 20/20.||Hindsight is 20/20.
+603. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+604. It takes two to tango.||It takes two to tango.
+605. Look before you leap.||Look before you leap.
+606. Make hay while the sun shines.||Make hay while the sun shines.
+607. Misery loves company.||Misery loves company.
+608. No pain, no gain.||No pain, no gain.
+609. Rome wasn't built in a day.||Rome wasn't built in a day.
+610. Slow and steady wins the race.||Slow and steady wins the race.
+611. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+612. The early bird catches the worm.||The early bird catches the worm.
+613. The pen is mightier than the sword.||The pen is mightier than the sword.
+614. There's no smoke without fire.||There's no smoke without fire.
+615. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+616. Time heals all wounds.||Time heals all wounds.
+617. Two heads are better than one.||Two heads are better than one.
+618. What goes around comes around.||What goes around comes around.
+619. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+620. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+621. A watched pot never boils.||A watched pot never boils.
+622. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+623. All good things must come to an end.||All good things must come to an end.
+624. All that glitters is not gold.||All that glitters is not gold.
+625. Beauty is only skin deep.||Beauty is only skin deep.
+626. Better late than never.||Better late than never.
+627. Clothes make the man.||Clothes make the man.
+628. Don't judge a book by its cover.||Don't judge a book by its cover.
+629. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+630. Don't put the cart before the horse.||Don't put the cart before the horse.
+631. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+632. Every cloud has a silver lining.||Every cloud has a silver lining.
+633. Every dog has its day.||Every dog has its day.
+634. Fortune favors the bold.||Fortune favors the bold.
+635. Hindsight is 20/20.||Hindsight is 20/20.
+636. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+637. It takes two to tango.||It takes two to tango.
+638. Look before you leap.||Look before you leap.
+639. Make hay while the sun shines.||Make hay while the sun shines.
+640. Misery loves company.||Misery loves company.
+641. No pain, no gain.||No pain, no gain.
+642. Rome wasn't built in a day.||Rome wasn't built in a day.
+643. Slow and steady wins the race.||Slow and steady wins the race.
+644. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+645. The early bird catches the worm.||The early bird catches the worm.
+646. The pen is mightier than the sword.||The pen is mightier than the sword.
+647. There's no smoke without fire.||There's no smoke without fire.
+648. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+649. Time heals all wounds.||Time heals all wounds.
+650. Two heads are better than one.||Two heads are better than one.
+651. What goes around comes around.||What goes around comes around.
+652. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+653. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+654. A watched pot never boils.||A watched pot never boils.
+655. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+656. All good things must come to an end.||All good things must come to an end.
+657. All that glitters is not gold.||All that glitters is not gold.
+658. Beauty is only skin deep.||Beauty is only skin deep.
+659. Better late than never.||Better late than never.
+660. Clothes make the man.||Clothes make the man.
+661. Don't judge a book by its cover.||Don't judge a book by its cover.
+662. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+663. Don't put the cart before the horse.||Don't put the cart before the horse.
+664. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+665. Every cloud has a silver lining.||Every cloud has a silver lining.
+666. Every dog has its day.||Every dog has its day.
+667. Fortune favors the bold.||Fortune favors the bold.
+668. Hindsight is 20/20.||Hindsight is 20/20.
+669. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+670. It takes two to tango.||It takes two to tango.
+671. Look before you leap.||Look before you leap.
+672. Make hay while the sun shines.||Make hay while the sun shines.
+673. Misery loves company.||Misery loves company.
+674. No pain, no gain.||No pain, no gain.
+675. Rome wasn't built in a day.||Rome wasn't built in a day.
+676. Slow and steady wins the race.||Slow and steady wins the race.
+677. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+678. The early bird catches the worm.||The early bird catches the worm.
+679. The pen is mightier than the sword.||The pen is mightier than the sword.
+680. There's no smoke without fire.||There's no smoke without fire.
+681. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+682. Time heals all wounds.||Time heals all wounds.
+683. Two heads are better than one.||Two heads are better than one.
+684. What goes around comes around.||What goes around comes around.
+685. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+686. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+687. A watched pot never boils.||A watched pot never boils.
+688. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+689. All good things must come to an end.||All good things must come to an end.
+690. All that glitters is not gold.||All that glitters is not gold.
+691. Beauty is only skin deep.||Beauty is only skin deep.
+692. Better late than never.||Better late than never.
+693. Clothes make the man.||Clothes make the man.
+694. Don't judge a book by its cover.||Don't judge a book by its cover.
+695. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+696. Don't put the cart before the horse.||Don't put the cart before the horse.
+697. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+698. Every cloud has a silver lining.||Every cloud has a silver lining.
+699. Every dog has its day.||Every dog has its day.
+700. Fortune favors the bold.||Fortune favors the bold.
+701. Hindsight is 20/20.||Hindsight is 20/20.
+702. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+703. It takes two to tango.||It takes two to tango.
+704. Look before you leap.||Look before you leap.
+705. Make hay while the sun shines.||Make hay while the sun shines.
+706. Misery loves company.||Misery loves company.
+707. No pain, no gain.||No pain, no gain.
+708. Rome wasn't built in a day.||Rome wasn't built in a day.
+709. Slow and steady wins the race.||Slow and steady wins the race.
+710. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+711. The early bird catches the worm.||The early bird catches the worm.
+712. The pen is mightier than the sword.||The pen is mightier than the sword.
+713. There's no smoke without fire.||There's no smoke without fire.
+714. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+715. Time heals all wounds.||Time heals all wounds.
+716. Two heads are better than one.||Two heads are better than one.
+717. What goes around comes around.||What goes around comes around.
+718. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+719. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+720. A watched pot never boils.||A watched pot never boils.
+721. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+722. All good things must come to an end.||All good things must come to an end.
+723. All that glitters is not gold.||All that glitters is not gold.
+724. Beauty is only skin deep.||Beauty is only skin deep.
+725. Better late than never.||Better late than never.
+726. Clothes make the man.||Clothes make the man.
+727. Don't judge a book by its cover.||Don't judge a book by its cover.
+728. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+729. Don't put the cart before the horse.||Don't put the cart before the horse.
+730. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+731. Every cloud has a silver lining.||Every cloud has a silver lining.
+732. Every dog has its day.||Every dog has its day.
+733. Fortune favors the bold.||Fortune favors the bold.
+734. Hindsight is 20/20.||Hindsight is 20/20.
+735. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+736. It takes two to tango.||It takes two to tango.
+737. Look before you leap.||Look before you leap.
+738. Make hay while the sun shines.||Make hay while the sun shines.
+739. Misery loves company.||Misery loves company.
+740. No pain, no gain.||No pain, no gain.
+741. Rome wasn't built in a day.||Rome wasn't built in a day.
+742. Slow and steady wins the race.||Slow and steady wins the race.
+743. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+744. The early bird catches the worm.||The early bird catches the worm.
+745. The pen is mightier than the sword.||The pen is mightier than the sword.
+746. There's no smoke without fire.||There's no smoke without fire.
+747. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+748. Time heals all wounds.||Time heals all wounds.
+749. Two heads are better than one.||Two heads are better than one.
+750. What goes around comes around.||What goes around comes around.
+751. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+752. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+753. A watched pot never boils.||A watched pot never boils.
+754. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+755. All good things must come to an end.||All good things must come to an end.
+756. All that glitters is not gold.||All that glitters is not gold.
+757. Beauty is only skin deep.||Beauty is only skin deep.
+758. Better late than never.||Better late than never.
+759. Clothes make the man.||Clothes make the man.
+760. Don't judge a book by its cover.||Don't judge a book by its cover.
+761. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+762. Don't put the cart before the horse.||Don't put the cart before the horse.
+763. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+764. Every cloud has a silver lining.||Every cloud has a silver lining.
+765. Every dog has its day.||Every dog has its day.
+766. Fortune favors the bold.||Fortune favors the bold.
+767. Hindsight is 20/20.||Hindsight is 20/20.
+768. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+769. It takes two to tango.||It takes two to tango.
+770. Look before you leap.||Look before you leap.
+771. Make hay while the sun shines.||Make hay while the sun shines.
+772. Misery loves company.||Misery loves company.
+773. No pain, no gain.||No pain, no gain.
+774. Rome wasn't built in a day.||Rome wasn't built in a day.
+775. Slow and steady wins the race.||Slow and steady wins the race.
+776. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+777. The early bird catches the worm.||The early bird catches the worm.
+778. The pen is mightier than the sword.||The pen is mightier than the sword.
+779. There's no smoke without fire.||There's no smoke without fire.
+780. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+781. Time heals all wounds.||Time heals all wounds.
+782. Two heads are better than one.||Two heads are better than one.
+783. What goes around comes around.||What goes around comes around.
+784. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+785. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+786. A watched pot never boils.||A watched pot never boils.
+787. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+788. All good things must come to an end.||All good things must come to an end.
+789. All that glitters is not gold.||All that glitters is not gold.
+790. Beauty is only skin deep.||Beauty is only skin deep.
+791. Better late than never.||Better late than never.
+792. Clothes make the man.||Clothes make the man.
+793. Don't judge a book by its cover.||Don't judge a book by its cover.
+794. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+795. Don't put the cart before the horse.||Don't put the cart before the horse.
+796. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+797. Every cloud has a silver lining.||Every cloud has a silver lining.
+798. Every dog has its day.||Every dog has its day.
+799. Fortune favors the bold.||Fortune favors the bold.
+800. Hindsight is 20/20.||Hindsight is 20/20.
+801. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+802. It takes two to tango.||It takes two to tango.
+803. Look before you leap.||Look before you leap.
+804. Make hay while the sun shines.||Make hay while the sun shines.
+805. Misery loves company.||Misery loves company.
+806. No pain, no gain.||No pain, no gain.
+807. Rome wasn't built in a day.||Rome wasn't built in a day.
+808. Slow and steady wins the race.||Slow and steady wins the race.
+809. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+810. The early bird catches the worm.||The early bird catches the worm.
+811. The pen is mightier than the sword.||The pen is mightier than the sword.
+812. There's no smoke without fire.||There's no smoke without fire.
+813. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+814. Time heals all wounds.||Time heals all wounds.
+815. Two heads are better than one.||Two heads are better than one.
+816. What goes around comes around.||What goes around comes around.
+817. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+818. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+819. A watched pot never boils.||A watched pot never boils.
+820. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+821. All good things must come to an end.||All good things must come to an end.
+822. All that glitters is not gold.||All that glitters is not gold.
+823. Beauty is only skin deep.||Beauty is only skin deep.
+824. Better late than never.||Better late than never.
+825. Clothes make the man.||Clothes make the man.
+826. Don't judge a book by its cover.||Don't judge a book by its cover.
+827. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+828. Don't put the cart before the horse.||Don't put the cart before the horse.
+829. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+830. Every cloud has a silver lining.||Every cloud has a silver lining.
+831. Every dog has its day.||Every dog has its day.
+832. Fortune favors the bold.||Fortune favors the bold.
+833. Hindsight is 20/20.||Hindsight is 20/20.
+834. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+835. It takes two to tango.||It takes two to tango.
+836. Look before you leap.||Look before you leap.
+837. Make hay while the sun shines.||Make hay while the sun shines.
+838. Misery loves company.||Misery loves company.
+839. No pain, no gain.||No pain, no gain.
+840. Rome wasn't built in a day.||Rome wasn't built in a day.
+841. Slow and steady wins the race.||Slow and steady wins the race.
+842. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+843. The early bird catches the worm.||The early bird catches the worm.
+844. The pen is mightier than the sword.||The pen is mightier than the sword.
+845. There's no smoke without fire.||There's no smoke without fire.
+846. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+847. Time heals all wounds.||Time heals all wounds.
+848. Two heads are better than one.||Two heads are better than one.
+849. What goes around comes around.||What goes around comes around.
+850. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+851. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+852. A watched pot never boils.||A watched pot never boils.
+853. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+854. All good things must come to an end.||All good things must come to an end.
+855. All that glitters is not gold.||All that glitters is not gold.
+856. Beauty is only skin deep.||Beauty is only skin deep.
+857. Better late than never.||Better late than never.
+858. Clothes make the man.||Clothes make the man.
+859. Don't judge a book by its cover.||Don't judge a book by its cover.
+860. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+861. Don't put the cart before the horse.||Don't put the cart before the horse.
+862. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+863. Every cloud has a silver lining.||Every cloud has a silver lining.
+864. Every dog has its day.||Every dog has its day.
+865. Fortune favors the bold.||Fortune favors the bold.
+866. Hindsight is 20/20.||Hindsight is 20/20.
+867. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+868. It takes two to tango.||It takes two to tango.
+869. Look before you leap.||Look before you leap.
+870. Make hay while the sun shines.||Make hay while the sun shines.
+871. Misery loves company.||Misery loves company.
+872. No pain, no gain.||No pain, no gain.
+873. Rome wasn't built in a day.||Rome wasn't built in a day.
+874. Slow and steady wins the race.||Slow and steady wins the race.
+875. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+876. The early bird catches the worm.||The early bird catches the worm.
+877. The pen is mightier than the sword.||The pen is mightier than the sword.
+878. There's no smoke without fire.||There's no smoke without fire.
+879. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+880. Time heals all wounds.||Time heals all wounds.
+881. Two heads are better than one.||Two heads are better than one.
+882. What goes around comes around.||What goes around comes around.
+883. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+884. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+885. A watched pot never boils.||A watched pot never boils.
+886. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+887. All good things must come to an end.||All good things must come to an end.
+888. All that glitters is not gold.||All that glitters is not gold.
+889. Beauty is only skin deep.||Beauty is only skin deep.
+890. Better late than never.||Better late than never.
+891. Clothes make the man.||Clothes make the man.
+892. Don't judge a book by its cover.||Don't judge a book by its cover.
+893. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+894. Don't put the cart before the horse.||Don't put the cart before the horse.
+895. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+896. Every cloud has a silver lining.||Every cloud has a silver lining.
+897. Every dog has its day.||Every dog has its day.
+898. Fortune favors the bold.||Fortune favors the bold.
+899. Hindsight is 20/20.||Hindsight is 20/20.
+900. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+901. It takes two to tango.||It takes two to tango.
+902. Look before you leap.||Look before you leap.
+903. Make hay while the sun shines.||Make hay while the sun shines.
+904. Misery loves company.||Misery loves company.
+905. No pain, no gain.||No pain, no gain.
+906. Rome wasn't built in a day.||Rome wasn't built in a day.
+907. Slow and steady wins the race.||Slow and steady wins the race.
+908. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+909. The early bird catches the worm.||The early bird catches the worm.
+910. The pen is mightier than the sword.||The pen is mightier than the sword.
+911. There's no smoke without fire.||There's no smoke without fire.
+912. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+913. Time heals all wounds.||Time heals all wounds.
+914. Two heads are better than one.||Two heads are better than one.
+915. What goes around comes around.||What goes around comes around.
+916. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+917. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+918. A watched pot never boils.||A watched pot never boils.
+919. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+920. All good things must come to an end.||All good things must come to an end.
+921. All that glitters is not gold.||All that glitters is not gold.
+922. Beauty is only skin deep.||Beauty is only skin deep.
+923. Better late than never.||Better late than never.
+924. Clothes make the man.||Clothes make the man.
+925. Don't judge a book by its cover.||Don't judge a book by its cover.
+926. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+927. Don't put the cart before the horse.||Don't put the cart before the horse.
+928. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+929. Every cloud has a silver lining.||Every cloud has a silver lining.
+930. Every dog has its day.||Every dog has its day.
+931. Fortune favors the bold.||Fortune favors the bold.
+932. Hindsight is 20/20.||Hindsight is 20/20.
+933. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+934. It takes two to tango.||It takes two to tango.
+935. Look before you leap.||Look before you leap.
+936. Make hay while the sun shines.||Make hay while the sun shines.
+937. Misery loves company.||Misery loves company.
+938. No pain, no gain.||No pain, no gain.
+939. Rome wasn't built in a day.||Rome wasn't built in a day.
+940. Slow and steady wins the race.||Slow and steady wins the race.
+941. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+942. The early bird catches the worm.||The early bird catches the worm.
+943. The pen is mightier than the sword.||The pen is mightier than the sword.
+944. There's no smoke without fire.||There's no smoke without fire.
+945. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+946. Time heals all wounds.||Time heals all wounds.
+947. Two heads are better than one.||Two heads are better than one.
+948. What goes around comes around.||What goes around comes around.
+949. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+950. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+951. A watched pot never boils.||A watched pot never boils.
+952. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+953. All good things must come to an end.||All good things must come to an end.
+954. All that glitters is not gold.||All that glitters is not gold.
+955. Beauty is only skin deep.||Beauty is only skin deep.
+956. Better late than never.||Better late than never.
+957. Clothes make the man.||Clothes make the man.
+958. Don't judge a book by its cover.||Don't judge a book by its cover.
+959. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+960. Don't put the cart before the horse.||Don't put the cart before the horse.
+961. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+962. Every cloud has a silver lining.||Every cloud has a silver lining.
+963. Every dog has its day.||Every dog has its day.
+964. Fortune favors the bold.||Fortune favors the bold.
+965. Hindsight is 20/20.||Hindsight is 20/20.
+966. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+967. It takes two to tango.||It takes two to tango.
+968. Look before you leap.||Look before you leap.
+969. Make hay while the sun shines.||Make hay while the sun shines.
+970. Misery loves company.||Misery loves company.
+971. No pain, no gain.||No pain, no gain.
+972. Rome wasn't built in a day.||Rome wasn't built in a day.
+973. Slow and steady wins the race.||Slow and steady wins the race.
+974. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+975. The early bird catches the worm.||The early bird catches the worm.
+976. The pen is mightier than the sword.||The pen is mightier than the sword.
+977. There's no smoke without fire.||There's no smoke without fire.
+978. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+979. Time heals all wounds.||Time heals all wounds.
+980. Two heads are better than one.||Two heads are better than one.
+981. What goes around comes around.||What goes around comes around.
+982. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+983. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+984. A watched pot never boils.||A watched pot never boils.
+985. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+986. All good things must come to an end.||All good things must come to an end.
+987. All that glitters is not gold.||All that glitters is not gold.
+988. Beauty is only skin deep.||Beauty is only skin deep.
+989. Better late than never.||Better late than never.
+990. Clothes make the man.||Clothes make the man.
+991. Don't judge a book by its cover.||Don't judge a book by its cover.
+992. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+993. Don't put the cart before the horse.||Don't put the cart before the horse.
+994. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+995. Every cloud has a silver lining.||Every cloud has a silver lining.
+996. Every dog has its day.||Every dog has its day.
+997. Fortune favors the bold.||Fortune favors the bold.
+998. Hindsight is 20/20.||Hindsight is 20/20.
+999. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1000. It takes two to tango.||It takes two to tango.
+1001. Look before you leap.||Look before you leap.
+1002. Make hay while the sun shines.||Make hay while the sun shines.
+1003. Misery loves company.||Misery loves company.
+1004. No pain, no gain.||No pain, no gain.
+1005. Rome wasn't built in a day.||Rome wasn't built in a day.
+1006. Slow and steady wins the race.||Slow and steady wins the race.
+1007. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1008. The early bird catches the worm.||The early bird catches the worm.
+1009. The pen is mightier than the sword.||The pen is mightier than the sword.
+1010. There's no smoke without fire.||There's no smoke without fire.
+1011. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1012. Time heals all wounds.||Time heals all wounds.
+1013. Two heads are better than one.||Two heads are better than one.
+1014. What goes around comes around.||What goes around comes around.
+1015. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1016. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1017. A watched pot never boils.||A watched pot never boils.
+1018. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1019. All good things must come to an end.||All good things must come to an end.
+1020. All that glitters is not gold.||All that glitters is not gold.
+1021. Beauty is only skin deep.||Beauty is only skin deep.
+1022. Better late than never.||Better late than never.
+1023. Clothes make the man.||Clothes make the man.
+1024. Don't judge a book by its cover.||Don't judge a book by its cover.
+1025. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1026. Don't put the cart before the horse.||Don't put the cart before the horse.
+1027. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1028. Every cloud has a silver lining.||Every cloud has a silver lining.
+1029. Every dog has its day.||Every dog has its day.
+1030. Fortune favors the bold.||Fortune favors the bold.
+1031. Hindsight is 20/20.||Hindsight is 20/20.
+1032. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1033. It takes two to tango.||It takes two to tango.
+1034. Look before you leap.||Look before you leap.
+1035. Make hay while the sun shines.||Make hay while the sun shines.
+1036. Misery loves company.||Misery loves company.
+1037. No pain, no gain.||No pain, no gain.
+1038. Rome wasn't built in a day.||Rome wasn't built in a day.
+1039. Slow and steady wins the race.||Slow and steady wins the race.
+1040. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1041. The early bird catches the worm.||The early bird catches the worm.
+1042. The pen is mightier than the sword.||The pen is mightier than the sword.
+1043. There's no smoke without fire.||There's no smoke without fire.
+1044. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1045. Time heals all wounds.||Time heals all wounds.
+1046. Two heads are better than one.||Two heads are better than one.
+1047. What goes around comes around.||What goes around comes around.
+1048. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1049. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1050. A watched pot never boils.||A watched pot never boils.
+1051. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1052. All good things must come to an end.||All good things must come to an end.
+1053. All that glitters is not gold.||All that glitters is not gold.
+1054. Beauty is only skin deep.||Beauty is only skin deep.
+1055. Better late than never.||Better late than never.
+1056. Clothes make the man.||Clothes make the man.
+1057. Don't judge a book by its cover.||Don't judge a book by its cover.
+1058. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1059. Don't put the cart before the horse.||Don't put the cart before the horse.
+1060. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1061. Every cloud has a silver lining.||Every cloud has a silver lining.
+1062. Every dog has its day.||Every dog has its day.
+1063. Fortune favors the bold.||Fortune favors the bold.
+1064. Hindsight is 20/20.||Hindsight is 20/20.
+1065. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1066. It takes two to tango.||It takes two to tango.
+1067. Look before you leap.||Look before you leap.
+1068. Make hay while the sun shines.||Make hay while the sun shines.
+1069. Misery loves company.||Misery loves company.
+1070. No pain, no gain.||No pain, no gain.
+1071. Rome wasn't built in a day.||Rome wasn't built in a day.
+1072. Slow and steady wins the race.||Slow and steady wins the race.
+1073. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1074. The early bird catches the worm.||The early bird catches the worm.
+1075. The pen is mightier than the sword.||The pen is mightier than the sword.
+1076. There's no smoke without fire.||There's no smoke without fire.
+1077. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1078. Time heals all wounds.||Time heals all wounds.
+1079. Two heads are better than one.||Two heads are better than one.
+1080. What goes around comes around.||What goes around comes around.
+1081. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1082. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1083. A watched pot never boils.||A watched pot never boils.
+1084. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1085. All good things must come to an end.||All good things must come to an end.
+1086. All that glitters is not gold.||All that glitters is not gold.
+1087. Beauty is only skin deep.||Beauty is only skin deep.
+1088. Better late than never.||Better late than never.
+1089. Clothes make the man.||Clothes make the man.
+1090. Don't judge a book by its cover.||Don't judge a book by its cover.
+1091. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1092. Don't put the cart before the horse.||Don't put the cart before the horse.
+1093. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1094. Every cloud has a silver lining.||Every cloud has a silver lining.
+1095. Every dog has its day.||Every dog has its day.
+1096. Fortune favors the bold.||Fortune favors the bold.
+1097. Hindsight is 20/20.||Hindsight is 20/20.
+1098. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1099. It takes two to tango.||It takes two to tango.
+1100. Look before you leap.||Look before you leap.
+1101. Make hay while the sun shines.||Make hay while the sun shines.
+1102. Misery loves company.||Misery loves company.
+1103. No pain, no gain.||No pain, no gain.
+1104. Rome wasn't built in a day.||Rome wasn't built in a day.
+1105. Slow and steady wins the race.||Slow and steady wins the race.
+1106. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1107. The early bird catches the worm.||The early bird catches the worm.
+1108. The pen is mightier than the sword.||The pen is mightier than the sword.
+1109. There's no smoke without fire.||There's no smoke without fire.
+1110. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1111. Time heals all wounds.||Time heals all wounds.
+1112. Two heads are better than one.||Two heads are better than one.
+1113. What goes around comes around.||What goes around comes around.
+1114. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1115. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1116. A watched pot never boils.||A watched pot never boils.
+1117. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1118. All good things must come to an end.||All good things must come to an end.
+1119. All that glitters is not gold.||All that glitters is not gold.
+1120. Beauty is only skin deep.||Beauty is only skin deep.
+1121. Better late than never.||Better late than never.
+1122. Clothes make the man.||Clothes make the man.
+1123. Don't judge a book by its cover.||Don't judge a book by its cover.
+1124. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1125. Don't put the cart before the horse.||Don't put the cart before the horse.
+1126. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1127. Every cloud has a silver lining.||Every cloud has a silver lining.
+1128. Every dog has its day.||Every dog has its day.
+1129. Fortune favors the bold.||Fortune favors the bold.
+1130. Hindsight is 20/20.||Hindsight is 20/20.
+1131. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1132. It takes two to tango.||It takes two to tango.
+1133. Look before you leap.||Look before you leap.
+1134. Make hay while the sun shines.||Make hay while the sun shines.
+1135. Misery loves company.||Misery loves company.
+1136. No pain, no gain.||No pain, no gain.
+1137. Rome wasn't built in a day.||Rome wasn't built in a day.
+1138. Slow and steady wins the race.||Slow and steady wins the race.
+1139. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1140. The early bird catches the worm.||The early bird catches the worm.
+1141. The pen is mightier than the sword.||The pen is mightier than the sword.
+1142. There's no smoke without fire.||There's no smoke without fire.
+1143. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1144. Time heals all wounds.||Time heals all wounds.
+1145. Two heads are better than one.||Two heads are better than one.
+1146. What goes around comes around.||What goes around comes around.
+1147. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1148. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1149. A watched pot never boils.||A watched pot never boils.
+1150. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1151. All good things must come to an end.||All good things must come to an end.
+1152. All that glitters is not gold.||All that glitters is not gold.
+1153. Beauty is only skin deep.||Beauty is only skin deep.
+1154. Better late than never.||Better late than never.
+1155. Clothes make the man.||Clothes make the man.
+1156. Don't judge a book by its cover.||Don't judge a book by its cover.
+1157. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1158. Don't put the cart before the horse.||Don't put the cart before the horse.
+1159. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1160. Every cloud has a silver lining.||Every cloud has a silver lining.
+1161. Every dog has its day.||Every dog has its day.
+1162. Fortune favors the bold.||Fortune favors the bold.
+1163. Hindsight is 20/20.||Hindsight is 20/20.
+1164. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1165. It takes two to tango.||It takes two to tango.
+1166. Look before you leap.||Look before you leap.
+1167. Make hay while the sun shines.||Make hay while the sun shines.
+1168. Misery loves company.||Misery loves company.
+1169. No pain, no gain.||No pain, no gain.
+1170. Rome wasn't built in a day.||Rome wasn't built in a day.
+1171. Slow and steady wins the race.||Slow and steady wins the race.
+1172. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1173. The early bird catches the worm.||The early bird catches the worm.
+1174. The pen is mightier than the sword.||The pen is mightier than the sword.
+1175. There's no smoke without fire.||There's no smoke without fire.
+1176. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1177. Time heals all wounds.||Time heals all wounds.
+1178. Two heads are better than one.||Two heads are better than one.
+1179. What goes around comes around.||What goes around comes around.
+1180. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1181. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1182. A watched pot never boils.||A watched pot never boils.
+1183. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1184. All good things must come to an end.||All good things must come to an end.
+1185. All that glitters is not gold.||All that glitters is not gold.
+1186. Beauty is only skin deep.||Beauty is only skin deep.
+1187. Better late than never.||Better late than never.
+1188. Clothes make the man.||Clothes make the man.
+1189. Don't judge a book by its cover.||Don't judge a book by its cover.
+1190. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1191. Don't put the cart before the horse.||Don't put the cart before the horse.
+1192. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1193. Every cloud has a silver lining.||Every cloud has a silver lining.
+1194. Every dog has its day.||Every dog has its day.
+1195. Fortune favors the bold.||Fortune favors the bold.
+1196. Hindsight is 20/20.||Hindsight is 20/20.
+1197. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1198. It takes two to tango.||It takes two to tango.
+1199. Look before you leap.||Look before you leap.
+1200. Make hay while the sun shines.||Make hay while the sun shines.
+1201. Misery loves company.||Misery loves company.
+1202. No pain, no gain.||No pain, no gain.
+1203. Rome wasn't built in a day.||Rome wasn't built in a day.
+1204. Slow and steady wins the race.||Slow and steady wins the race.
+1205. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1206. The early bird catches the worm.||The early bird catches the worm.
+1207. The pen is mightier than the sword.||The pen is mightier than the sword.
+1208. There's no smoke without fire.||There's no smoke without fire.
+1209. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1210. Time heals all wounds.||Time heals all wounds.
+1211. Two heads are better than one.||Two heads are better than one.
+1212. What goes around comes around.||What goes around comes around.
+1213. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1214. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1215. A watched pot never boils.||A watched pot never boils.
+1216. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1217. All good things must come to an end.||All good things must come to an end.
+1218. All that glitters is not gold.||All that glitters is not gold.
+1219. Beauty is only skin deep.||Beauty is only skin deep.
+1220. Better late than never.||Better late than never.
+1221. Clothes make the man.||Clothes make the man.
+1222. Don't judge a book by its cover.||Don't judge a book by its cover.
+1223. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1224. Don't put the cart before the horse.||Don't put the cart before the horse.
+1225. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1226. Every cloud has a silver lining.||Every cloud has a silver lining.
+1227. Every dog has its day.||Every dog has its day.
+1228. Fortune favors the bold.||Fortune favors the bold.
+1229. Hindsight is 20/20.||Hindsight is 20/20.
+1230. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1231. It takes two to tango.||It takes two to tango.
+1232. Look before you leap.||Look before you leap.
+1233. Make hay while the sun shines.||Make hay while the sun shines.
+1234. Misery loves company.||Misery loves company.
+1235. No pain, no gain.||No pain, no gain.
+1236. Rome wasn't built in a day.||Rome wasn't built in a day.
+1237. Slow and steady wins the race.||Slow and steady wins the race.
+1238. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1239. The early bird catches the worm.||The early bird catches the worm.
+1240. The pen is mightier than the sword.||The pen is mightier than the sword.
+1241. There's no smoke without fire.||There's no smoke without fire.
+1242. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1243. Time heals all wounds.||Time heals all wounds.
+1244. Two heads are better than one.||Two heads are better than one.
+1245. What goes around comes around.||What goes around comes around.
+1246. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1247. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1248. A watched pot never boils.||A watched pot never boils.
+1249. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1250. All good things must come to an end.||All good things must come to an end.
+1251. All that glitters is not gold.||All that glitters is not gold.
+1252. Beauty is only skin deep.||Beauty is only skin deep.
+1253. Better late than never.||Better late than never.
+1254. Clothes make the man.||Clothes make the man.
+1255. Don't judge a book by its cover.||Don't judge a book by its cover.
+1256. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1257. Don't put the cart before the horse.||Don't put the cart before the horse.
+1258. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1259. Every cloud has a silver lining.||Every cloud has a silver lining.
+1260. Every dog has its day.||Every dog has its day.
+1261. Fortune favors the bold.||Fortune favors the bold.
+1262. Hindsight is 20/20.||Hindsight is 20/20.
+1263. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1264. It takes two to tango.||It takes two to tango.
+1265. Look before you leap.||Look before you leap.
+1266. Make hay while the sun shines.||Make hay while the sun shines.
+1267. Misery loves company.||Misery loves company.
+1268. No pain, no gain.||No pain, no gain.
+1269. Rome wasn't built in a day.||Rome wasn't built in a day.
+1270. Slow and steady wins the race.||Slow and steady wins the race.
+1271. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1272. The early bird catches the worm.||The early bird catches the worm.
+1273. The pen is mightier than the sword.||The pen is mightier than the sword.
+1274. There's no smoke without fire.||There's no smoke without fire.
+1275. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1276. Time heals all wounds.||Time heals all wounds.
+1277. Two heads are better than one.||Two heads are better than one.
+1278. What goes around comes around.||What goes around comes around.
+1279. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1280. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1281. A watched pot never boils.||A watched pot never boils.
+1282. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1283. All good things must come to an end.||All good things must come to an end.
+1284. All that glitters is not gold.||All that glitters is not gold.
+1285. Beauty is only skin deep.||Beauty is only skin deep.
+1286. Better late than never.||Better late than never.
+1287. Clothes make the man.||Clothes make the man.
+1288. Don't judge a book by its cover.||Don't judge a book by its cover.
+1289. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1290. Don't put the cart before the horse.||Don't put the cart before the horse.
+1291. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1292. Every cloud has a silver lining.||Every cloud has a silver lining.
+1293. Every dog has its day.||Every dog has its day.
+1294. Fortune favors the bold.||Fortune favors the bold.
+1295. Hindsight is 20/20.||Hindsight is 20/20.
+1296. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1297. It takes two to tango.||It takes two to tango.
+1298. Look before you leap.||Look before you leap.
+1299. Make hay while the sun shines.||Make hay while the sun shines.
+1300. Misery loves company.||Misery loves company.
+1301. No pain, no gain.||No pain, no gain.
+1302. Rome wasn't built in a day.||Rome wasn't built in a day.
+1303. Slow and steady wins the race.||Slow and steady wins the race.
+1304. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1305. The early bird catches the worm.||The early bird catches the worm.
+1306. The pen is mightier than the sword.||The pen is mightier than the sword.
+1307. There's no smoke without fire.||There's no smoke without fire.
+1308. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1309. Time heals all wounds.||Time heals all wounds.
+1310. Two heads are better than one.||Two heads are better than one.
+1311. What goes around comes around.||What goes around comes around.
+1312. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1313. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1314. A watched pot never boils.||A watched pot never boils.
+1315. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1316. All good things must come to an end.||All good things must come to an end.
+1317. All that glitters is not gold.||All that glitters is not gold.
+1318. Beauty is only skin deep.||Beauty is only skin deep.
+1319. Better late than never.||Better late than never.
+1320. Clothes make the man.||Clothes make the man.
+1321. Don't judge a book by its cover.||Don't judge a book by its cover.
+1322. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1323. Don't put the cart before the horse.||Don't put the cart before the horse.
+1324. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1325. Every cloud has a silver lining.||Every cloud has a silver lining.
+1326. Every dog has its day.||Every dog has its day.
+1327. Fortune favors the bold.||Fortune favors the bold.
+1328. Hindsight is 20/20.||Hindsight is 20/20.
+1329. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1330. It takes two to tango.||It takes two to tango.
+1331. Look before you leap.||Look before you leap.
+1332. Make hay while the sun shines.||Make hay while the sun shines.
+1333. Misery loves company.||Misery loves company.
+1334. No pain, no gain.||No pain, no gain.
+1335. Rome wasn't built in a day.||Rome wasn't built in a day.
+1336. Slow and steady wins the race.||Slow and steady wins the race.
+1337. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1338. The early bird catches the worm.||The early bird catches the worm.
+1339. The pen is mightier than the sword.||The pen is mightier than the sword.
+1340. There's no smoke without fire.||There's no smoke without fire.
+1341. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1342. Time heals all wounds.||Time heals all wounds.
+1343. Two heads are better than one.||Two heads are better than one.
+1344. What goes around comes around.||What goes around comes around.
+1345. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1346. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1347. A watched pot never boils.||A watched pot never boils.
+1348. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1349. All good things must come to an end.||All good things must come to an end.
+1350. All that glitters is not gold.||All that glitters is not gold.
+1351. Beauty is only skin deep.||Beauty is only skin deep.
+1352. Better late than never.||Better late than never.
+1353. Clothes make the man.||Clothes make the man.
+1354. Don't judge a book by its cover.||Don't judge a book by its cover.
+1355. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1356. Don't put the cart before the horse.||Don't put the cart before the horse.
+1357. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1358. Every cloud has a silver lining.||Every cloud has a silver lining.
+1359. Every dog has its day.||Every dog has its day.
+1360. Fortune favors the bold.||Fortune favors the bold.
+1361. Hindsight is 20/20.||Hindsight is 20/20.
+1362. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1363. It takes two to tango.||It takes two to tango.
+1364. Look before you leap.||Look before you leap.
+1365. Make hay while the sun shines.||Make hay while the sun shines.
+1366. Misery loves company.||Misery loves company.
+1367. No pain, no gain.||No pain, no gain.
+1368. Rome wasn't built in a day.||Rome wasn't built in a day.
+1369. Slow and steady wins the race.||Slow and steady wins the race.
+1370. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1371. The early bird catches the worm.||The early bird catches the worm.
+1372. The pen is mightier than the sword.||The pen is mightier than the sword.
+1373. There's no smoke without fire.||There's no smoke without fire.
+1374. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1375. Time heals all wounds.||Time heals all wounds.
+1376. Two heads are better than one.||Two heads are better than one.
+1377. What goes around comes around.||What goes around comes around.
+1378. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1379. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1380. A watched pot never boils.||A watched pot never boils.
+1381. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1382. All good things must come to an end.||All good things must come to an end.
+1383. All that glitters is not gold.||All that glitters is not gold.
+1384. Beauty is only skin deep.||Beauty is only skin deep.
+1385. Better late than never.||Better late than never.
+1386. Clothes make the man.||Clothes make the man.
+1387. Don't judge a book by its cover.||Don't judge a book by its cover.
+1388. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1389. Don't put the cart before the horse.||Don't put the cart before the horse.
+1390. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1391. Every cloud has a silver lining.||Every cloud has a silver lining.
+1392. Every dog has its day.||Every dog has its day.
+1393. Fortune favors the bold.||Fortune favors the bold.
+1394. Hindsight is 20/20.||Hindsight is 20/20.
+1395. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1396. It takes two to tango.||It takes two to tango.
+1397. Look before you leap.||Look before you leap.
+1398. Make hay while the sun shines.||Make hay while the sun shines.
+1399. Misery loves company.||Misery loves company.
+1400. No pain, no gain.||No pain, no gain.
+1401. Rome wasn't built in a day.||Rome wasn't built in a day.
+1402. Slow and steady wins the race.||Slow and steady wins the race.
+1403. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1404. The early bird catches the worm.||The early bird catches the worm.
+1405. The pen is mightier than the sword.||The pen is mightier than the sword.
+1406. There's no smoke without fire.||There's no smoke without fire.
+1407. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1408. Time heals all wounds.||Time heals all wounds.
+1409. Two heads are better than one.||Two heads are better than one.
+1410. What goes around comes around.||What goes around comes around.
+1411. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1412. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1413. A watched pot never boils.||A watched pot never boils.
+1414. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1415. All good things must come to an end.||All good things must come to an end.
+1416. All that glitters is not gold.||All that glitters is not gold.
+1417. Beauty is only skin deep.||Beauty is only skin deep.
+1418. Better late than never.||Better late than never.
+1419. Clothes make the man.||Clothes make the man.
+1420. Don't judge a book by its cover.||Don't judge a book by its cover.
+1421. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1422. Don't put the cart before the horse.||Don't put the cart before the horse.
+1423. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1424. Every cloud has a silver lining.||Every cloud has a silver lining.
+1425. Every dog has its day.||Every dog has its day.
+1426. Fortune favors the bold.||Fortune favors the bold.
+1427. Hindsight is 20/20.||Hindsight is 20/20.
+1428. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1429. It takes two to tango.||It takes two to tango.
+1430. Look before you leap.||Look before you leap.
+1431. Make hay while the sun shines.||Make hay while the sun shines.
+1432. Misery loves company.||Misery loves company.
+1433. No pain, no gain.||No pain, no gain.
+1434. Rome wasn't built in a day.||Rome wasn't built in a day.
+1435. Slow and steady wins the race.||Slow and steady wins the race.
+1436. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1437. The early bird catches the worm.||The early bird catches the worm.
+1438. The pen is mightier than the sword.||The pen is mightier than the sword.
+1439. There's no smoke without fire.||There's no smoke without fire.
+1440. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1441. Time heals all wounds.||Time heals all wounds.
+1442. Two heads are better than one.||Two heads are better than one.
+1443. What goes around comes around.||What goes around comes around.
+1444. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1445. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1446. A watched pot never boils.||A watched pot never boils.
+1447. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1448. All good things must come to an end.||All good things must come to an end.
+1449. All that glitters is not gold.||All that glitters is not gold.
+1450. Beauty is only skin deep.||Beauty is only skin deep.
+1451. Better late than never.||Better late than never.
+1452. Clothes make the man.||Clothes make the man.
+1453. Don't judge a book by its cover.||Don't judge a book by its cover.
+1454. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1455. Don't put the cart before the horse.||Don't put the cart before the horse.
+1456. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1457. Every cloud has a silver lining.||Every cloud has a silver lining.
+1458. Every dog has its day.||Every dog has its day.
+1459. Fortune favors the bold.||Fortune favors the bold.
+1460. Hindsight is 20/20.||Hindsight is 20/20.
+1461. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1462. It takes two to tango.||It takes two to tango.
+1463. Look before you leap.||Look before you leap.
+1464. Make hay while the sun shines.||Make hay while the sun shines.
+1465. Misery loves company.||Misery loves company.
+1466. No pain, no gain.||No pain, no gain.
+1467. Rome wasn't built in a day.||Rome wasn't built in a day.
+1468. Slow and steady wins the race.||Slow and steady wins the race.
+1469. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1470. The early bird catches the worm.||The early bird catches the worm.
+1471. The pen is mightier than the sword.||The pen is mightier than the sword.
+1472. There's no smoke without fire.||There's no smoke without fire.
+1473. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1474. Time heals all wounds.||Time heals all wounds.
+1475. Two heads are better than one.||Two heads are better than one.
+1476. What goes around comes around.||What goes around comes around.
+1477. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1478. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1479. A watched pot never boils.||A watched pot never boils.
+1480. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1481. All good things must come to an end.||All good things must come to an end.
+1482. All that glitters is not gold.||All that glitters is not gold.
+1483. Beauty is only skin deep.||Beauty is only skin deep.
+1484. Better late than never.||Better late than never.
+1485. Clothes make the man.||Clothes make the man.
+1486. Don't judge a book by its cover.||Don't judge a book by its cover.
+1487. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1488. Don't put the cart before the horse.||Don't put the cart before the horse.
+1489. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1490. Every cloud has a silver lining.||Every cloud has a silver lining.
+1491. Every dog has its day.||Every dog has its day.
+1492. Fortune favors the bold.||Fortune favors the bold.
+1493. Hindsight is 20/20.||Hindsight is 20/20.
+1494. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1495. It takes two to tango.||It takes two to tango.
+1496. Look before you leap.||Look before you leap.
+1497. Make hay while the sun shines.||Make hay while the sun shines.
+1498. Misery loves company.||Misery loves company.
+1499. No pain, no gain.||No pain, no gain.
+1500. Rome wasn't built in a day.||Rome wasn't built in a day.
+1501. Slow and steady wins the race.||Slow and steady wins the race.
+1502. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1503. The early bird catches the worm.||The early bird catches the worm.
+1504. The pen is mightier than the sword.||The pen is mightier than the sword.
+1505. There's no smoke without fire.||There's no smoke without fire.
+1506. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1507. Time heals all wounds.||Time heals all wounds.
+1508. Two heads are better than one.||Two heads are better than one.
+1509. What goes around comes around.||What goes around comes around.
+1510. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1511. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1512. A watched pot never boils.||A watched pot never boils.
+1513. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1514. All good things must come to an end.||All good things must come to an end.
+1515. All that glitters is not gold.||All that glitters is not gold.
+1516. Beauty is only skin deep.||Beauty is only skin deep.
+1517. Better late than never.||Better late than never.
+1518. Clothes make the man.||Clothes make the man.
+1519. Don't judge a book by its cover.||Don't judge a book by its cover.
+1520. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1521. Don't put the cart before the horse.||Don't put the cart before the horse.
+1522. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1523. Every cloud has a silver lining.||Every cloud has a silver lining.
+1524. Every dog has its day.||Every dog has its day.
+1525. Fortune favors the bold.||Fortune favors the bold.
+1526. Hindsight is 20/20.||Hindsight is 20/20.
+1527. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1528. It takes two to tango.||It takes two to tango.
+1529. Look before you leap.||Look before you leap.
+1530. Make hay while the sun shines.||Make hay while the sun shines.
+1531. Misery loves company.||Misery loves company.
+1532. No pain, no gain.||No pain, no gain.
+1533. Rome wasn't built in a day.||Rome wasn't built in a day.
+1534. Slow and steady wins the race.||Slow and steady wins the race.
+1535. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1536. The early bird catches the worm.||The early bird catches the worm.
+1537. The pen is mightier than the sword.||The pen is mightier than the sword.
+1538. There's no smoke without fire.||There's no smoke without fire.
+1539. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1540. Time heals all wounds.||Time heals all wounds.
+1541. Two heads are better than one.||Two heads are better than one.
+1542. What goes around comes around.||What goes around comes around.
+1543. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1544. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1545. A watched pot never boils.||A watched pot never boils.
+1546. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1547. All good things must come to an end.||All good things must come to an end.
+1548. All that glitters is not gold.||All that glitters is not gold.
+1549. Beauty is only skin deep.||Beauty is only skin deep.
+1550. Better late than never.||Better late than never.
+1551. Clothes make the man.||Clothes make the man.
+1552. Don't judge a book by its cover.||Don't judge a book by its cover.
+1553. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1554. Don't put the cart before the horse.||Don't put the cart before the horse.
+1555. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1556. Every cloud has a silver lining.||Every cloud has a silver lining.
+1557. Every dog has its day.||Every dog has its day.
+1558. Fortune favors the bold.||Fortune favors the bold.
+1559. Hindsight is 20/20.||Hindsight is 20/20.
+1560. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1561. It takes two to tango.||It takes two to tango.
+1562. Look before you leap.||Look before you leap.
+1563. Make hay while the sun shines.||Make hay while the sun shines.
+1564. Misery loves company.||Misery loves company.
+1565. No pain, no gain.||No pain, no gain.
+1566. Rome wasn't built in a day.||Rome wasn't built in a day.
+1567. Slow and steady wins the race.||Slow and steady wins the race.
+1568. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1569. The early bird catches the worm.||The early bird catches the worm.
+1570. The pen is mightier than the sword.||The pen is mightier than the sword.
+1571. There's no smoke without fire.||There's no smoke without fire.
+1572. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1573. Time heals all wounds.||Time heals all wounds.
+1574. Two heads are better than one.||Two heads are better than one.
+1575. What goes around comes around.||What goes around comes around.
+1576. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1577. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1578. A watched pot never boils.||A watched pot never boils.
+1579. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1580. All good things must come to an end.||All good things must come to an end.
+1581. All that glitters is not gold.||All that glitters is not gold.
+1582. Beauty is only skin deep.||Beauty is only skin deep.
+1583. Better late than never.||Better late than never.
+1584. Clothes make the man.||Clothes make the man.
+1585. Don't judge a book by its cover.||Don't judge a book by its cover.
+1586. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1587. Don't put the cart before the horse.||Don't put the cart before the horse.
+1588. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1589. Every cloud has a silver lining.||Every cloud has a silver lining.
+1590. Every dog has its day.||Every dog has its day.
+1591. Fortune favors the bold.||Fortune favors the bold.
+1592. Hindsight is 20/20.||Hindsight is 20/20.
+1593. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1594. It takes two to tango.||It takes two to tango.
+1595. Look before you leap.||Look before you leap.
+1596. Make hay while the sun shines.||Make hay while the sun shines.
+1597. Misery loves company.||Misery loves company.
+1598. No pain, no gain.||No pain, no gain.
+1599. Rome wasn't built in a day.||Rome wasn't built in a day.
+1600. Slow and steady wins the race.||Slow and steady wins the race.
+1601. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1602. The early bird catches the worm.||The early bird catches the worm.
+1603. The pen is mightier than the sword.||The pen is mightier than the sword.
+1604. There's no smoke without fire.||There's no smoke without fire.
+1605. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1606. Time heals all wounds.||Time heals all wounds.
+1607. Two heads are better than one.||Two heads are better than one.
+1608. What goes around comes around.||What goes around comes around.
+1609. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1610. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1611. A watched pot never boils.||A watched pot never boils.
+1612. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1613. All good things must come to an end.||All good things must come to an end.
+1614. All that glitters is not gold.||All that glitters is not gold.
+1615. Beauty is only skin deep.||Beauty is only skin deep.
+1616. Better late than never.||Better late than never.
+1617. Clothes make the man.||Clothes make the man.
+1618. Don't judge a book by its cover.||Don't judge a book by its cover.
+1619. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1620. Don't put the cart before the horse.||Don't put the cart before the horse.
+1621. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1622. Every cloud has a silver lining.||Every cloud has a silver lining.
+1623. Every dog has its day.||Every dog has its day.
+1624. Fortune favors the bold.||Fortune favors the bold.
+1625. Hindsight is 20/20.||Hindsight is 20/20.
+1626. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1627. It takes two to tango.||It takes two to tango.
+1628. Look before you leap.||Look before you leap.
+1629. Make hay while the sun shines.||Make hay while the sun shines.
+1630. Misery loves company.||Misery loves company.
+1631. No pain, no gain.||No pain, no gain.
+1632. Rome wasn't built in a day.||Rome wasn't built in a day.
+1633. Slow and steady wins the race.||Slow and steady wins the race.
+1634. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1635. The early bird catches the worm.||The early bird catches the worm.
+1636. The pen is mightier than the sword.||The pen is mightier than the sword.
+1637. There's no smoke without fire.||There's no smoke without fire.
+1638. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1639. Time heals all wounds.||Time heals all wounds.
+1640. Two heads are better than one.||Two heads are better than one.
+1641. What goes around comes around.||What goes around comes around.
+1642. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1643. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1644. A watched pot never boils.||A watched pot never boils.
+1645. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1646. All good things must come to an end.||All good things must come to an end.
+1647. All that glitters is not gold.||All that glitters is not gold.
+1648. Beauty is only skin deep.||Beauty is only skin deep.
+1649. Better late than never.||Better late than never.
+1650. Clothes make the man.||Clothes make the man.
+1651. Don't judge a book by its cover.||Don't judge a book by its cover.
+1652. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1653. Don't put the cart before the horse.||Don't put the cart before the horse.
+1654. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1655. Every cloud has a silver lining.||Every cloud has a silver lining.
+1656. Every dog has its day.||Every dog has its day.
+1657. Fortune favors the bold.||Fortune favors the bold.
+1658. Hindsight is 20/20.||Hindsight is 20/20.
+1659. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1660. It takes two to tango.||It takes two to tango.
+1661. Look before you leap.||Look before you leap.
+1662. Make hay while the sun shines.||Make hay while the sun shines.
+1663. Misery loves company.||Misery loves company.
+1664. No pain, no gain.||No pain, no gain.
+1665. Rome wasn't built in a day.||Rome wasn't built in a day.
+1666. Slow and steady wins the race.||Slow and steady wins the race.
+1667. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1668. The early bird catches the worm.||The early bird catches the worm.
+1669. The pen is mightier than the sword.||The pen is mightier than the sword.
+1670. There's no smoke without fire.||There's no smoke without fire.
+1671. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1672. Time heals all wounds.||Time heals all wounds.
+1673. Two heads are better than one.||Two heads are better than one.
+1674. What goes around comes around.||What goes around comes around.
+1675. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1676. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1677. A watched pot never boils.||A watched pot never boils.
+1678. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1679. All good things must come to an end.||All good things must come to an end.
+1680. All that glitters is not gold.||All that glitters is not gold.
+1681. Beauty is only skin deep.||Beauty is only skin deep.
+1682. Better late than never.||Better late than never.
+1683. Clothes make the man.||Clothes make the man.
+1684. Don't judge a book by its cover.||Don't judge a book by its cover.
+1685. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1686. Don't put the cart before the horse.||Don't put the cart before the horse.
+1687. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1688. Every cloud has a silver lining.||Every cloud has a silver lining.
+1689. Every dog has its day.||Every dog has its day.
+1690. Fortune favors the bold.||Fortune favors the bold.
+1691. Hindsight is 20/20.||Hindsight is 20/20.
+1692. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1693. It takes two to tango.||It takes two to tango.
+1694. Look before you leap.||Look before you leap.
+1695. Make hay while the sun shines.||Make hay while the sun shines.
+1696. Misery loves company.||Misery loves company.
+1697. No pain, no gain.||No pain, no gain.
+1698. Rome wasn't built in a day.||Rome wasn't built in a day.
+1699. Slow and steady wins the race.||Slow and steady wins the race.
+1700. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1701. The early bird catches the worm.||The early bird catches the worm.
+1702. The pen is mightier than the sword.||The pen is mightier than the sword.
+1703. There's no smoke without fire.||There's no smoke without fire.
+1704. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1705. Time heals all wounds.||Time heals all wounds.
+1706. Two heads are better than one.||Two heads are better than one.
+1707. What goes around comes around.||What goes around comes around.
+1708. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1709. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1710. A watched pot never boils.||A watched pot never boils.
+1711. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1712. All good things must come to an end.||All good things must come to an end.
+1713. All that glitters is not gold.||All that glitters is not gold.
+1714. Beauty is only skin deep.||Beauty is only skin deep.
+1715. Better late than never.||Better late than never.
+1716. Clothes make the man.||Clothes make the man.
+1717. Don't judge a book by its cover.||Don't judge a book by its cover.
+1718. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1719. Don't put the cart before the horse.||Don't put the cart before the horse.
+1720. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1721. Every cloud has a silver lining.||Every cloud has a silver lining.
+1722. Every dog has its day.||Every dog has its day.
+1723. Fortune favors the bold.||Fortune favors the bold.
+1724. Hindsight is 20/20.||Hindsight is 20/20.
+1725. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1726. It takes two to tango.||It takes two to tango.
+1727. Look before you leap.||Look before you leap.
+1728. Make hay while the sun shines.||Make hay while the sun shines.
+1729. Misery loves company.||Misery loves company.
+1730. No pain, no gain.||No pain, no gain.
+1731. Rome wasn't built in a day.||Rome wasn't built in a day.
+1732. Slow and steady wins the race.||Slow and steady wins the race.
+1733. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1734. The early bird catches the worm.||The early bird catches the worm.
+1735. The pen is mightier than the sword.||The pen is mightier than the sword.
+1736. There's no smoke without fire.||There's no smoke without fire.
+1737. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1738. Time heals all wounds.||Time heals all wounds.
+1739. Two heads are better than one.||Two heads are better than one.
+1740. What goes around comes around.||What goes around comes around.
+1741. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1742. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1743. A watched pot never boils.||A watched pot never boils.
+1744. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1745. All good things must come to an end.||All good things must come to an end.
+1746. All that glitters is not gold.||All that glitters is not gold.
+1747. Beauty is only skin deep.||Beauty is only skin deep.
+1748. Better late than never.||Better late than never.
+1749. Clothes make the man.||Clothes make the man.
+1750. Don't judge a book by its cover.||Don't judge a book by its cover.
+1751. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1752. Don't put the cart before the horse.||Don't put the cart before the horse.
+1753. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1754. Every cloud has a silver lining.||Every cloud has a silver lining.
+1755. Every dog has its day.||Every dog has its day.
+1756. Fortune favors the bold.||Fortune favors the bold.
+1757. Hindsight is 20/20.||Hindsight is 20/20.
+1758. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1759. It takes two to tango.||It takes two to tango.
+1760. Look before you leap.||Look before you leap.
+1761. Make hay while the sun shines.||Make hay while the sun shines.
+1762. Misery loves company.||Misery loves company.
+1763. No pain, no gain.||No pain, no gain.
+1764. Rome wasn't built in a day.||Rome wasn't built in a day.
+1765. Slow and steady wins the race.||Slow and steady wins the race.
+1766. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1767. The early bird catches the worm.||The early bird catches the worm.
+1768. The pen is mightier than the sword.||The pen is mightier than the sword.
+1769. There's no smoke without fire.||There's no smoke without fire.
+1770. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1771. Time heals all wounds.||Time heals all wounds.
+1772. Two heads are better than one.||Two heads are better than one.
+1773. What goes around comes around.||What goes around comes around.
+1774. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1775. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1776. A watched pot never boils.||A watched pot never boils.
+1777. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1778. All good things must come to an end.||All good things must come to an end.
+1779. All that glitters is not gold.||All that glitters is not gold.
+1780. Beauty is only skin deep.||Beauty is only skin deep.
+1781. Better late than never.||Better late than never.
+1782. Clothes make the man.||Clothes make the man.
+1783. Don't judge a book by its cover.||Don't judge a book by its cover.
+1784. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1785. Don't put the cart before the horse.||Don't put the cart before the horse.
+1786. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1787. Every cloud has a silver lining.||Every cloud has a silver lining.
+1788. Every dog has its day.||Every dog has its day.
+1789. Fortune favors the bold.||Fortune favors the bold.
+1790. Hindsight is 20/20.||Hindsight is 20/20.
+1791. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1792. It takes two to tango.||It takes two to tango.
+1793. Look before you leap.||Look before you leap.
+1794. Make hay while the sun shines.||Make hay while the sun shines.
+1795. Misery loves company.||Misery loves company.
+1796. No pain, no gain.||No pain, no gain.
+1797. Rome wasn't built in a day.||Rome wasn't built in a day.
+1798. Slow and steady wins the race.||Slow and steady wins the race.
+1799. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1800. The early bird catches the worm.||The early bird catches the worm.
+1801. The pen is mightier than the sword.||The pen is mightier than the sword.
+1802. There's no smoke without fire.||There's no smoke without fire.
+1803. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1804. Time heals all wounds.||Time heals all wounds.
+1805. Two heads are better than one.||Two heads are better than one.
+1806. What goes around comes around.||What goes around comes around.
+1807. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1808. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1809. A watched pot never boils.||A watched pot never boils.
+1810. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1811. All good things must come to an end.||All good things must come to an end.
+1812. All that glitters is not gold.||All that glitters is not gold.
+1813. Beauty is only skin deep.||Beauty is only skin deep.
+1814. Better late than never.||Better late than never.
+1815. Clothes make the man.||Clothes make the man.
+1816. Don't judge a book by its cover.||Don't judge a book by its cover.
+1817. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1818. Don't put the cart before the horse.||Don't put the cart before the horse.
+1819. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1820. Every cloud has a silver lining.||Every cloud has a silver lining.
+1821. Every dog has its day.||Every dog has its day.
+1822. Fortune favors the bold.||Fortune favors the bold.
+1823. Hindsight is 20/20.||Hindsight is 20/20.
+1824. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1825. It takes two to tango.||It takes two to tango.
+1826. Look before you leap.||Look before you leap.
+1827. Make hay while the sun shines.||Make hay while the sun shines.
+1828. Misery loves company.||Misery loves company.
+1829. No pain, no gain.||No pain, no gain.
+1830. Rome wasn't built in a day.||Rome wasn't built in a day.
+1831. Slow and steady wins the race.||Slow and steady wins the race.
+1832. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1833. The early bird catches the worm.||The early bird catches the worm.
+1834. The pen is mightier than the sword.||The pen is mightier than the sword.
+1835. There's no smoke without fire.||There's no smoke without fire.
+1836. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1837. Time heals all wounds.||Time heals all wounds.
+1838. Two heads are better than one.||Two heads are better than one.
+1839. What goes around comes around.||What goes around comes around.
+1840. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1841. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1842. A watched pot never boils.||A watched pot never boils.
+1843. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1844. All good things must come to an end.||All good things must come to an end.
+1845. All that glitters is not gold.||All that glitters is not gold.
+1846. Beauty is only skin deep.||Beauty is only skin deep.
+1847. Better late than never.||Better late than never.
+1848. Clothes make the man.||Clothes make the man.
+1849. Don't judge a book by its cover.||Don't judge a book by its cover.
+1850. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1851. Don't put the cart before the horse.||Don't put the cart before the horse.
+1852. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1853. Every cloud has a silver lining.||Every cloud has a silver lining.
+1854. Every dog has its day.||Every dog has its day.
+1855. Fortune favors the bold.||Fortune favors the bold.
+1856. Hindsight is 20/20.||Hindsight is 20/20.
+1857. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1858. It takes two to tango.||It takes two to tango.
+1859. Look before you leap.||Look before you leap.
+1860. Make hay while the sun shines.||Make hay while the sun shines.
+1861. Misery loves company.||Misery loves company.
+1862. No pain, no gain.||No pain, no gain.
+1863. Rome wasn't built in a day.||Rome wasn't built in a day.
+1864. Slow and steady wins the race.||Slow and steady wins the race.
+1865. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1866. The early bird catches the worm.||The early bird catches the worm.
+1867. The pen is mightier than the sword.||The pen is mightier than the sword.
+1868. There's no smoke without fire.||There's no smoke without fire.
+1869. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1870. Time heals all wounds.||Time heals all wounds.
+1871. Two heads are better than one.||Two heads are better than one.
+1872. What goes around comes around.||What goes around comes around.
+1873. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1874. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1875. A watched pot never boils.||A watched pot never boils.
+1876. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1877. All good things must come to an end.||All good things must come to an end.
+1878. All that glitters is not gold.||All that glitters is not gold.
+1879. Beauty is only skin deep.||Beauty is only skin deep.
+1880. Better late than never.||Better late than never.
+1881. Clothes make the man.||Clothes make the man.
+1882. Don't judge a book by its cover.||Don't judge a book by its cover.
+1883. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1884. Don't put the cart before the horse.||Don't put the cart before the horse.
+1885. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1886. Every cloud has a silver lining.||Every cloud has a silver lining.
+1887. Every dog has its day.||Every dog has its day.
+1888. Fortune favors the bold.||Fortune favors the bold.
+1889. Hindsight is 20/20.||Hindsight is 20/20.
+1890. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1891. It takes two to tango.||It takes two to tango.
+1892. Look before you leap.||Look before you leap.
+1893. Make hay while the sun shines.||Make hay while the sun shines.
+1894. Misery loves company.||Misery loves company.
+1895. No pain, no gain.||No pain, no gain.
+1896. Rome wasn't built in a day.||Rome wasn't built in a day.
+1897. Slow and steady wins the race.||Slow and steady wins the race.
+1898. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1899. The early bird catches the worm.||The early bird catches the worm.
+1900. The pen is mightier than the sword.||The pen is mightier than the sword.
+1901. There's no smoke without fire.||There's no smoke without fire.
+1902. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1903. Time heals all wounds.||Time heals all wounds.
+1904. Two heads are better than one.||Two heads are better than one.
+1905. What goes around comes around.||What goes around comes around.
+1906. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1907. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1908. A watched pot never boils.||A watched pot never boils.
+1909. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1910. All good things must come to an end.||All good things must come to an end.
+1911. All that glitters is not gold.||All that glitters is not gold.
+1912. Beauty is only skin deep.||Beauty is only skin deep.
+1913. Better late than never.||Better late than never.
+1914. Clothes make the man.||Clothes make the man.
+1915. Don't judge a book by its cover.||Don't judge a book by its cover.
+1916. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1917. Don't put the cart before the horse.||Don't put the cart before the horse.
+1918. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1919. Every cloud has a silver lining.||Every cloud has a silver lining.
+1920. Every dog has its day.||Every dog has its day.
+1921. Fortune favors the bold.||Fortune favors the bold.
+1922. Hindsight is 20/20.||Hindsight is 20/20.
+1923. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1924. It takes two to tango.||It takes two to tango.
+1925. Look before you leap.||Look before you leap.
+1926. Make hay while the sun shines.||Make hay while the sun shines.
+1927. Misery loves company.||Misery loves company.
+1928. No pain, no gain.||No pain, no gain.
+1929. Rome wasn't built in a day.||Rome wasn't built in a day.
+1930. Slow and steady wins the race.||Slow and steady wins the race.
+1931. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1932. The early bird catches the worm.||The early bird catches the worm.
+1933. The pen is mightier than the sword.||The pen is mightier than the sword.
+1934. There's no smoke without fire.||There's no smoke without fire.
+1935. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1936. Time heals all wounds.||Time heals all wounds.
+1937. Two heads are better than one.||Two heads are better than one.
+1938. What goes around comes around.||What goes around comes around.
+1939. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1940. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1941. A watched pot never boils.||A watched pot never boils.
+1942. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1943. All good things must come to an end.||All good things must come to an end.
+1944. All that glitters is not gold.||All that glitters is not gold.
+1945. Beauty is only skin deep.||Beauty is only skin deep.
+1946. Better late than never.||Better late than never.
+1947. Clothes make the man.||Clothes make the man.
+1948. Don't judge a book by its cover.||Don't judge a book by its cover.
+1949. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1950. Don't put the cart before the horse.||Don't put the cart before the horse.
+1951. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1952. Every cloud has a silver lining.||Every cloud has a silver lining.
+1953. Every dog has its day.||Every dog has its day.
+1954. Fortune favors the bold.||Fortune favors the bold.
+1955. Hindsight is 20/20.||Hindsight is 20/20.
+1956. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1957. It takes two to tango.||It takes two to tango.
+1958. Look before you leap.||Look before you leap.
+1959. Make hay while the sun shines.||Make hay while the sun shines.
+1960. Misery loves company.||Misery loves company.
+1961. No pain, no gain.||No pain, no gain.
+1962. Rome wasn't built in a day.||Rome wasn't built in a day.
+1963. Slow and steady wins the race.||Slow and steady wins the race.
+1964. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1965. The early bird catches the worm.||The early bird catches the worm.
+1966. The pen is mightier than the sword.||The pen is mightier than the sword.
+1967. There's no smoke without fire.||There's no smoke without fire.
+1968. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+1969. Time heals all wounds.||Time heals all wounds.
+1970. Two heads are better than one.||Two heads are better than one.
+1971. What goes around comes around.||What goes around comes around.
+1972. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+1973. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+1974. A watched pot never boils.||A watched pot never boils.
+1975. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+1976. All good things must come to an end.||All good things must come to an end.
+1977. All that glitters is not gold.||All that glitters is not gold.
+1978. Beauty is only skin deep.||Beauty is only skin deep.
+1979. Better late than never.||Better late than never.
+1980. Clothes make the man.||Clothes make the man.
+1981. Don't judge a book by its cover.||Don't judge a book by its cover.
+1982. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+1983. Don't put the cart before the horse.||Don't put the cart before the horse.
+1984. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+1985. Every cloud has a silver lining.||Every cloud has a silver lining.
+1986. Every dog has its day.||Every dog has its day.
+1987. Fortune favors the bold.||Fortune favors the bold.
+1988. Hindsight is 20/20.||Hindsight is 20/20.
+1989. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+1990. It takes two to tango.||It takes two to tango.
+1991. Look before you leap.||Look before you leap.
+1992. Make hay while the sun shines.||Make hay while the sun shines.
+1993. Misery loves company.||Misery loves company.
+1994. No pain, no gain.||No pain, no gain.
+1995. Rome wasn't built in a day.||Rome wasn't built in a day.
+1996. Slow and steady wins the race.||Slow and steady wins the race.
+1997. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+1998. The early bird catches the worm.||The early bird catches the worm.
+1999. The pen is mightier than the sword.||The pen is mightier than the sword.
+2000. There's no smoke without fire.||There's no smoke without fire.
+2001. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2002. Time heals all wounds.||Time heals all wounds.
+2003. Two heads are better than one.||Two heads are better than one.
+2004. What goes around comes around.||What goes around comes around.
+2005. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2006. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2007. A watched pot never boils.||A watched pot never boils.
+2008. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2009. All good things must come to an end.||All good things must come to an end.
+2010. All that glitters is not gold.||All that glitters is not gold.
+2011. Beauty is only skin deep.||Beauty is only skin deep.
+2012. Better late than never.||Better late than never.
+2013. Clothes make the man.||Clothes make the man.
+2014. Don't judge a book by its cover.||Don't judge a book by its cover.
+2015. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2016. Don't put the cart before the horse.||Don't put the cart before the horse.
+2017. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2018. Every cloud has a silver lining.||Every cloud has a silver lining.
+2019. Every dog has its day.||Every dog has its day.
+2020. Fortune favors the bold.||Fortune favors the bold.
+2021. Hindsight is 20/20.||Hindsight is 20/20.
+2022. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2023. It takes two to tango.||It takes two to tango.
+2024. Look before you leap.||Look before you leap.
+2025. Make hay while the sun shines.||Make hay while the sun shines.
+2026. Misery loves company.||Misery loves company.
+2027. No pain, no gain.||No pain, no gain.
+2028. Rome wasn't built in a day.||Rome wasn't built in a day.
+2029. Slow and steady wins the race.||Slow and steady wins the race.
+2030. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2031. The early bird catches the worm.||The early bird catches the worm.
+2032. The pen is mightier than the sword.||The pen is mightier than the sword.
+2033. There's no smoke without fire.||There's no smoke without fire.
+2034. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2035. Time heals all wounds.||Time heals all wounds.
+2036. Two heads are better than one.||Two heads are better than one.
+2037. What goes around comes around.||What goes around comes around.
+2038. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2039. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2040. A watched pot never boils.||A watched pot never boils.
+2041. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2042. All good things must come to an end.||All good things must come to an end.
+2043. All that glitters is not gold.||All that glitters is not gold.
+2044. Beauty is only skin deep.||Beauty is only skin deep.
+2045. Better late than never.||Better late than never.
+2046. Clothes make the man.||Clothes make the man.
+2047. Don't judge a book by its cover.||Don't judge a book by its cover.
+2048. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2049. Don't put the cart before the horse.||Don't put the cart before the horse.
+2050. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2051. Every cloud has a silver lining.||Every cloud has a silver lining.
+2052. Every dog has its day.||Every dog has its day.
+2053. Fortune favors the bold.||Fortune favors the bold.
+2054. Hindsight is 20/20.||Hindsight is 20/20.
+2055. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2056. It takes two to tango.||It takes two to tango.
+2057. Look before you leap.||Look before you leap.
+2058. Make hay while the sun shines.||Make hay while the sun shines.
+2059. Misery loves company.||Misery loves company.
+2060. No pain, no gain.||No pain, no gain.
+2061. Rome wasn't built in a day.||Rome wasn't built in a day.
+2062. Slow and steady wins the race.||Slow and steady wins the race.
+2063. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2064. The early bird catches the worm.||The early bird catches the worm.
+2065. The pen is mightier than the sword.||The pen is mightier than the sword.
+2066. There's no smoke without fire.||There's no smoke without fire.
+2067. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2068. Time heals all wounds.||Time heals all wounds.
+2069. Two heads are better than one.||Two heads are better than one.
+2070. What goes around comes around.||What goes around comes around.
+2071. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2072. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2073. A watched pot never boils.||A watched pot never boils.
+2074. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2075. All good things must come to an end.||All good things must come to an end.
+2076. All that glitters is not gold.||All that glitters is not gold.
+2077. Beauty is only skin deep.||Beauty is only skin deep.
+2078. Better late than never.||Better late than never.
+2079. Clothes make the man.||Clothes make the man.
+2080. Don't judge a book by its cover.||Don't judge a book by its cover.
+2081. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2082. Don't put the cart before the horse.||Don't put the cart before the horse.
+2083. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2084. Every cloud has a silver lining.||Every cloud has a silver lining.
+2085. Every dog has its day.||Every dog has its day.
+2086. Fortune favors the bold.||Fortune favors the bold.
+2087. Hindsight is 20/20.||Hindsight is 20/20.
+2088. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2089. It takes two to tango.||It takes two to tango.
+2090. Look before you leap.||Look before you leap.
+2091. Make hay while the sun shines.||Make hay while the sun shines.
+2092. Misery loves company.||Misery loves company.
+2093. No pain, no gain.||No pain, no gain.
+2094. Rome wasn't built in a day.||Rome wasn't built in a day.
+2095. Slow and steady wins the race.||Slow and steady wins the race.
+2096. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2097. The early bird catches the worm.||The early bird catches the worm.
+2098. The pen is mightier than the sword.||The pen is mightier than the sword.
+2099. There's no smoke without fire.||There's no smoke without fire.
+2100. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2101. Time heals all wounds.||Time heals all wounds.
+2102. Two heads are better than one.||Two heads are better than one.
+2103. What goes around comes around.||What goes around comes around.
+2104. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2105. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2106. A watched pot never boils.||A watched pot never boils.
+2107. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2108. All good things must come to an end.||All good things must come to an end.
+2109. All that glitters is not gold.||All that glitters is not gold.
+2110. Beauty is only skin deep.||Beauty is only skin deep.
+2111. Better late than never.||Better late than never.
+2112. Clothes make the man.||Clothes make the man.
+2113. Don't judge a book by its cover.||Don't judge a book by its cover.
+2114. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2115. Don't put the cart before the horse.||Don't put the cart before the horse.
+2116. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2117. Every cloud has a silver lining.||Every cloud has a silver lining.
+2118. Every dog has its day.||Every dog has its day.
+2119. Fortune favors the bold.||Fortune favors the bold.
+2120. Hindsight is 20/20.||Hindsight is 20/20.
+2121. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2122. It takes two to tango.||It takes two to tango.
+2123. Look before you leap.||Look before you leap.
+2124. Make hay while the sun shines.||Make hay while the sun shines.
+2125. Misery loves company.||Misery loves company.
+2126. No pain, no gain.||No pain, no gain.
+2127. Rome wasn't built in a day.||Rome wasn't built in a day.
+2128. Slow and steady wins the race.||Slow and steady wins the race.
+2129. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2130. The early bird catches the worm.||The early bird catches the worm.
+2131. The pen is mightier than the sword.||The pen is mightier than the sword.
+2132. There's no smoke without fire.||There's no smoke without fire.
+2133. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2134. Time heals all wounds.||Time heals all wounds.
+2135. Two heads are better than one.||Two heads are better than one.
+2136. What goes around comes around.||What goes around comes around.
+2137. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2138. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2139. A watched pot never boils.||A watched pot never boils.
+2140. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2141. All good things must come to an end.||All good things must come to an end.
+2142. All that glitters is not gold.||All that glitters is not gold.
+2143. Beauty is only skin deep.||Beauty is only skin deep.
+2144. Better late than never.||Better late than never.
+2145. Clothes make the man.||Clothes make the man.
+2146. Don't judge a book by its cover.||Don't judge a book by its cover.
+2147. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2148. Don't put the cart before the horse.||Don't put the cart before the horse.
+2149. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2150. Every cloud has a silver lining.||Every cloud has a silver lining.
+2151. Every dog has its day.||Every dog has its day.
+2152. Fortune favors the bold.||Fortune favors the bold.
+2153. Hindsight is 20/20.||Hindsight is 20/20.
+2154. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2155. It takes two to tango.||It takes two to tango.
+2156. Look before you leap.||Look before you leap.
+2157. Make hay while the sun shines.||Make hay while the sun shines.
+2158. Misery loves company.||Misery loves company.
+2159. No pain, no gain.||No pain, no gain.
+2160. Rome wasn't built in a day.||Rome wasn't built in a day.
+2161. Slow and steady wins the race.||Slow and steady wins the race.
+2162. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2163. The early bird catches the worm.||The early bird catches the worm.
+2164. The pen is mightier than the sword.||The pen is mightier than the sword.
+2165. There's no smoke without fire.||There's no smoke without fire.
+2166. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2167. Time heals all wounds.||Time heals all wounds.
+2168. Two heads are better than one.||Two heads are better than one.
+2169. What goes around comes around.||What goes around comes around.
+2170. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2171. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2172. A watched pot never boils.||A watched pot never boils.
+2173. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2174. All good things must come to an end.||All good things must come to an end.
+2175. All that glitters is not gold.||All that glitters is not gold.
+2176. Beauty is only skin deep.||Beauty is only skin deep.
+2177. Better late than never.||Better late than never.
+2178. Clothes make the man.||Clothes make the man.
+2179. Don't judge a book by its cover.||Don't judge a book by its cover.
+2180. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2181. Don't put the cart before the horse.||Don't put the cart before the horse.
+2182. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2183. Every cloud has a silver lining.||Every cloud has a silver lining.
+2184. Every dog has its day.||Every dog has its day.
+2185. Fortune favors the bold.||Fortune favors the bold.
+2186. Hindsight is 20/20.||Hindsight is 20/20.
+2187. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2188. It takes two to tango.||It takes two to tango.
+2189. Look before you leap.||Look before you leap.
+2190. Make hay while the sun shines.||Make hay while the sun shines.
+2191. Misery loves company.||Misery loves company.
+2192. No pain, no gain.||No pain, no gain.
+2193. Rome wasn't built in a day.||Rome wasn't built in a day.
+2194. Slow and steady wins the race.||Slow and steady wins the race.
+2195. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2196. The early bird catches the worm.||The early bird catches the worm.
+2197. The pen is mightier than the sword.||The pen is mightier than the sword.
+2198. There's no smoke without fire.||There's no smoke without fire.
+2199. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2200. Time heals all wounds.||Time heals all wounds.
+2201. Two heads are better than one.||Two heads are better than one.
+2202. What goes around comes around.||What goes around comes around.
+2203. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2204. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2205. A watched pot never boils.||A watched pot never boils.
+2206. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2207. All good things must come to an end.||All good things must come to an end.
+2208. All that glitters is not gold.||All that glitters is not gold.
+2209. Beauty is only skin deep.||Beauty is only skin deep.
+2210. Better late than never.||Better late than never.
+2211. Clothes make the man.||Clothes make the man.
+2212. Don't judge a book by its cover.||Don't judge a book by its cover.
+2213. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2214. Don't put the cart before the horse.||Don't put the cart before the horse.
+2215. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2216. Every cloud has a silver lining.||Every cloud has a silver lining.
+2217. Every dog has its day.||Every dog has its day.
+2218. Fortune favors the bold.||Fortune favors the bold.
+2219. Hindsight is 20/20.||Hindsight is 20/20.
+2220. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2221. It takes two to tango.||It takes two to tango.
+2222. Look before you leap.||Look before you leap.
+2223. Make hay while the sun shines.||Make hay while the sun shines.
+2224. Misery loves company.||Misery loves company.
+2225. No pain, no gain.||No pain, no gain.
+2226. Rome wasn't built in a day.||Rome wasn't built in a day.
+2227. Slow and steady wins the race.||Slow and steady wins the race.
+2228. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2229. The early bird catches the worm.||The early bird catches the worm.
+2230. The pen is mightier than the sword.||The pen is mightier than the sword.
+2231. There's no smoke without fire.||There's no smoke without fire.
+2232. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2233. Time heals all wounds.||Time heals all wounds.
+2234. Two heads are better than one.||Two heads are better than one.
+2235. What goes around comes around.||What goes around comes around.
+2236. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2237. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2238. A watched pot never boils.||A watched pot never boils.
+2239. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2240. All good things must come to an end.||All good things must come to an end.
+2241. All that glitters is not gold.||All that glitters is not gold.
+2242. Beauty is only skin deep.||Beauty is only skin deep.
+2243. Better late than never.||Better late than never.
+2244. Clothes make the man.||Clothes make the man.
+2245. Don't judge a book by its cover.||Don't judge a book by its cover.
+2246. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2247. Don't put the cart before the horse.||Don't put the cart before the horse.
+2248. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2249. Every cloud has a silver lining.||Every cloud has a silver lining.
+2250. Every dog has its day.||Every dog has its day.
+2251. Fortune favors the bold.||Fortune favors the bold.
+2252. Hindsight is 20/20.||Hindsight is 20/20.
+2253. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2254. It takes two to tango.||It takes two to tango.
+2255. Look before you leap.||Look before you leap.
+2256. Make hay while the sun shines.||Make hay while the sun shines.
+2257. Misery loves company.||Misery loves company.
+2258. No pain, no gain.||No pain, no gain.
+2259. Rome wasn't built in a day.||Rome wasn't built in a day.
+2260. Slow and steady wins the race.||Slow and steady wins the race.
+2261. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2262. The early bird catches the worm.||The early bird catches the worm.
+2263. The pen is mightier than the sword.||The pen is mightier than the sword.
+2264. There's no smoke without fire.||There's no smoke without fire.
+2265. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2266. Time heals all wounds.||Time heals all wounds.
+2267. Two heads are better than one.||Two heads are better than one.
+2268. What goes around comes around.||What goes around comes around.
+2269. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2270. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2271. A watched pot never boils.||A watched pot never boils.
+2272. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2273. All good things must come to an end.||All good things must come to an end.
+2274. All that glitters is not gold.||All that glitters is not gold.
+2275. Beauty is only skin deep.||Beauty is only skin deep.
+2276. Better late than never.||Better late than never.
+2277. Clothes make the man.||Clothes make the man.
+2278. Don't judge a book by its cover.||Don't judge a book by its cover.
+2279. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2280. Don't put the cart before the horse.||Don't put the cart before the horse.
+2281. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2282. Every cloud has a silver lining.||Every cloud has a silver lining.
+2283. Every dog has its day.||Every dog has its day.
+2284. Fortune favors the bold.||Fortune favors the bold.
+2285. Hindsight is 20/20.||Hindsight is 20/20.
+2286. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2287. It takes two to tango.||It takes two to tango.
+2288. Look before you leap.||Look before you leap.
+2289. Make hay while the sun shines.||Make hay while the sun shines.
+2290. Misery loves company.||Misery loves company.
+2291. No pain, no gain.||No pain, no gain.
+2292. Rome wasn't built in a day.||Rome wasn't built in a day.
+2293. Slow and steady wins the race.||Slow and steady wins the race.
+2294. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2295. The early bird catches the worm.||The early bird catches the worm.
+2296. The pen is mightier than the sword.||The pen is mightier than the sword.
+2297. There's no smoke without fire.||There's no smoke without fire.
+2298. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2299. Time heals all wounds.||Time heals all wounds.
+2300. Two heads are better than one.||Two heads are better than one.
+2301. What goes around comes around.||What goes around comes around.
+2302. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2303. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2304. A watched pot never boils.||A watched pot never boils.
+2305. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2306. All good things must come to an end.||All good things must come to an end.
+2307. All that glitters is not gold.||All that glitters is not gold.
+2308. Beauty is only skin deep.||Beauty is only skin deep.
+2309. Better late than never.||Better late than never.
+2310. Clothes make the man.||Clothes make the man.
+2311. Don't judge a book by its cover.||Don't judge a book by its cover.
+2312. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2313. Don't put the cart before the horse.||Don't put the cart before the horse.
+2314. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2315. Every cloud has a silver lining.||Every cloud has a silver lining.
+2316. Every dog has its day.||Every dog has its day.
+2317. Fortune favors the bold.||Fortune favors the bold.
+2318. Hindsight is 20/20.||Hindsight is 20/20.
+2319. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2320. It takes two to tango.||It takes two to tango.
+2321. Look before you leap.||Look before you leap.
+2322. Make hay while the sun shines.||Make hay while the sun shines.
+2323. Misery loves company.||Misery loves company.
+2324. No pain, no gain.||No pain, no gain.
+2325. Rome wasn't built in a day.||Rome wasn't built in a day.
+2326. Slow and steady wins the race.||Slow and steady wins the race.
+2327. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2328. The early bird catches the worm.||The early bird catches the worm.
+2329. The pen is mightier than the sword.||The pen is mightier than the sword.
+2330. There's no smoke without fire.||There's no smoke without fire.
+2331. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2332. Time heals all wounds.||Time heals all wounds.
+2333. Two heads are better than one.||Two heads are better than one.
+2334. What goes around comes around.||What goes around comes around.
+2335. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2336. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2337. A watched pot never boils.||A watched pot never boils.
+2338. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2339. All good things must come to an end.||All good things must come to an end.
+2340. All that glitters is not gold.||All that glitters is not gold.
+2341. Beauty is only skin deep.||Beauty is only skin deep.
+2342. Better late than never.||Better late than never.
+2343. Clothes make the man.||Clothes make the man.
+2344. Don't judge a book by its cover.||Don't judge a book by its cover.
+2345. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2346. Don't put the cart before the horse.||Don't put the cart before the horse.
+2347. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2348. Every cloud has a silver lining.||Every cloud has a silver lining.
+2349. Every dog has its day.||Every dog has its day.
+2350. Fortune favors the bold.||Fortune favors the bold.
+2351. Hindsight is 20/20.||Hindsight is 20/20.
+2352. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2353. It takes two to tango.||It takes two to tango.
+2354. Look before you leap.||Look before you leap.
+2355. Make hay while the sun shines.||Make hay while the sun shines.
+2356. Misery loves company.||Misery loves company.
+2357. No pain, no gain.||No pain, no gain.
+2358. Rome wasn't built in a day.||Rome wasn't built in a day.
+2359. Slow and steady wins the race.||Slow and steady wins the race.
+2360. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2361. The early bird catches the worm.||The early bird catches the worm.
+2362. The pen is mightier than the sword.||The pen is mightier than the sword.
+2363. There's no smoke without fire.||There's no smoke without fire.
+2364. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2365. Time heals all wounds.||Time heals all wounds.
+2366. Two heads are better than one.||Two heads are better than one.
+2367. What goes around comes around.||What goes around comes around.
+2368. You can't make an omelette without breaking eggs.||You can't make an omelette without breaking eggs.
+2369. You can't teach an old dog new tricks.||You can't teach an old dog new tricks.
+2370. A watched pot never boils.||A watched pot never boils.
+2371. Absence makes the heart grow fonder.||Absence makes the heart grow fonder.
+2372. All good things must come to an end.||All good things must come to an end.
+2373. All that glitters is not gold.||All that glitters is not gold.
+2374. Beauty is only skin deep.||Beauty is only skin deep.
+2375. Better late than never.||Better late than never.
+2376. Clothes make the man.||Clothes make the man.
+2377. Don't judge a book by its cover.||Don't judge a book by its cover.
+2378. Don't put all your eggs in one basket.||Don't put all your eggs in one basket.
+2379. Don't put the cart before the horse.||Don't put the cart before the horse.
+2380. Don't throw the baby out with the bathwater.||Don't throw the baby out with the bathwater.
+2381. Every cloud has a silver lining.||Every cloud has a silver lining.
+2382. Every dog has its day.||Every dog has its day.
+2383. Fortune favors the bold.||Fortune favors the bold.
+2384. Hindsight is 20/20.||Hindsight is 20/20.
+2385. If it ain't broke, don't fix it.||If it ain't broke, don't fix it.
+2386. It takes two to tango.||It takes two to tango.
+2387. Look before you leap.||Look before you leap.
+2388. Make hay while the sun shines.||Make hay while the sun shines.
+2389. Misery loves company.||Misery loves company.
+2390. No pain, no gain.||No pain, no gain.
+2391. Rome wasn't built in a day.||Rome wasn't built in a day.
+2392. Slow and steady wins the race.||Slow and steady wins the race.
+2393. The apple doesn't fall far from the tree.||The apple doesn't fall far from the tree.
+2394. The early bird catches the worm.||The early bird catches the worm.
+2395. The pen is mightier than the sword.||The pen is mightier than the sword.
+2396. There's no smoke without fire.||There's no smoke without fire.
+2397. There's no such thing as a free lunch.||There's no such thing as a free lunch.
+2398. Time heals all wounds.||Time heals all wounds.
+2399. Two heads are better than one.||Two heads are better than one.
+2400. What goes around comes around.||What goes around comes around.
+
+
+
