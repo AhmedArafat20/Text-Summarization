@@ -1,24 +1,24 @@
 Text||Summary
-1. The sun rises in the east and sets in the west.||Sun rises and sets.
-2. Cats are furry animals that love to sleep.||Cats love to sleep.
-3. Coding is a skill that can be learned with practice.||Coding can be learned with practice.
-4. The world is full of wonders waiting to be explored.||World is full of wonders.
-5. Music has the power to heal and uplift the soul.||Music heals and uplifts.
-6. Exercise is important for maintaining good health and fitness.||Exercise is important for health.
-7. Rome wasn't built in a day.||Rome wasn't built in a day.
-8. Science and technology are driving forces behind progress.||Science and technology drive progress.
-9. Books are a window to the world.||Books are a window to the world.
-10. Kindness costs nothing but means everything.||Kindness means everything.
-11. Dreams are the seeds of success.||Dreams are seeds of success.
-12. Laughter is the best medicine.||Laughter is the best medicine.
-13. The early bird catches the worm.||Early bird catches the worm.
-14. Time flies when you're having fun.||Time flies when having fun.
-15. Beauty is in the eye of the beholder.||Beauty is in the eye of the beholder.
-16. Actions speak louder than words.||Actions speak louder than words.
-17. Where there's a will, there's a way.||Where there's a will, there's a way.
-18. The pen is mightier than the sword.||Pen is mightier than the sword.
-19. All that glitters is not gold.||All that glitters is not gold.
-20. Love conquers all.||Love conquers all.
+The sun rises in the east and sets in the west.||Sun rises and sets.
+Cats are furry animals that love to sleep.||Cats love to sleep.
+Coding is a skill that can be learned with practice.||Coding can be learned with practice.
+The world is full of wonders waiting to be explored.||World is full of wonders.
+Music has the power to heal and uplift the soul.||Music heals and uplifts.
+Exercise is important for maintaining good health and fitness.||Exercise is important for health.
+Rome wasn't built in a day.||Rome wasn't built in a day.
+Science and technology are driving forces behind progress.||Science and technology drive progress.
+Books are a window to the world.||Books are a window to the world.
+Kindness costs nothing but means everything.||Kindness means everything.
+Dreams are the seeds of success.||Dreams are seeds of success.
+Laughter is the best medicine.||Laughter is the best medicine.
+The early bird catches the worm.||Early bird catches the worm.
+Time flies when you're having fun.||Time flies when having fun.
+Beauty is in the eye of the beholder.||Beauty is in the eye of the beholder.
+Actions speak louder than words.||Actions speak louder than words.
+Where there's a will, there's a way.||Where there's a will, there's a way.
+The pen is mightier than the sword.||Pen is mightier than the sword.
+All that glitters is not gold.||All that glitters is not gold.
+Love conquers all.||Love conquers all.
 21. Knowledge is power.||Knowledge is power.
 22. Necessity is the mother of invention.||Necessity is the mother of invention.
 23. Honesty is the best policy.||Honesty is the best policy.

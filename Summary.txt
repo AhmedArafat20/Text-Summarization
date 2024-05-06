@@ -64,12 +64,20 @@ def train_test_models(X, y):
     return logistic_reg_accuracy, random_forest_accuracy
 
 
-def summarize_text(input_text, num_sentences):
-    # Generate a random summary for demonstration purposes
-    summary = ""
-    for _ in range(num_sentences):
-        summary += input_text.split('.')[random.randint(0, len(input_text.split('.'))-1)].strip() + ". "
-    return summary
+def summarize_text(input_text):
+    try:
+        with open('Data_Summary.txt', 'r') as file:
+            lines = file.readlines()
+            data_dict = {}
+            for line in lines:
+                parts = line.split('||')
+                if len(parts) == 2:
+                    data_dict[parts[0].strip()] = parts[1].strip()
+
+            summary = data_dict.get(input_text, "No summary found")
+            return summary
+    except FileNotFoundError:
+        messagebox.showerror("Error", "Data file not found.")
 
 # Load and preprocess dataset
 try:
@@ -99,14 +107,8 @@ input_label.pack()
 input_text_box = scrolledtext.ScrolledText(root, width=40, height=10)
 input_text_box.pack()
 
-# Number of sentences entry
-num_sentences_label = tk.Label(root, text="Number of sentences in summary:")
-num_sentences_label.pack()
-num_sentences_entry = tk.Entry(root)
-num_sentences_entry.pack()
-
 # Button to summarize
-summarize_button = tk.Button(root, text="Summarize", command=lambda: summarize_text_gui(input_text_box.get("1.0",'end-1c'), int(num_sentences_entry.get())))
+summarize_button = tk.Button(root, text="Summarize", command=lambda: summarize_text_gui(input_text_box.get("1.0",'end-1c')))
 summarize_button.pack()
 
 # Summary text box
@@ -122,9 +124,13 @@ logistic_reg_accuracy_label.pack()
 random_forest_accuracy_label = tk.Label(root, text=f"Random Forest Accuracy: {random_forest_accuracy:.2f}%")
 random_forest_accuracy_label.pack()
 
-def summarize_text_gui(input_text, num_sentences):
-    summary = summarize_text(input_text, num_sentences)
-    summary_text_box.delete('1.0', tk.END)
-    summary_text_box.insert(tk.END, summary)
+def summarize_text_gui(input_text):
+    try:
+        summary = summarize_text(input_text)
+        summary_text_box.delete('1.0', tk.END)
+        summary_text_box.insert(tk.END, summary)
+    except FileNotFoundError:
+        messagebox.showerror("Error", "Data file not found.")
 
-root.mainloop()
+
+root.mainloop()  
